@@ -8,17 +8,17 @@ tags: [Shortcutomation/screen-time]
 
 I've been trying to be more mindful about how I spend time on my iPhone.
 
-After discovering the unofficial list of [Apple's Settings URL scheme](https://github.com/FifiTheBulldog/ios-settings-urls/blob/master/settings-urls.md), I made a simple shortcut that gently reminds me to check in with myself every evening.
+After discovering the unofficial list of [Apple's Settings URL scheme](https://github.com/FifiTheBulldog/ios-settings-urls/blob/master/settings-urls.md), I made a simple shortcut that reminds me to check in with myself every evening.
 
 Every night, about an hour before my bed time, I get a _scheduled, customized_ notification on the Lock Screen to check my daily screen time. [^1]
 
-When I tap on it, it takes me straight to the **[Screen Time Summary](https://support.apple.com/guide/iphone/get-started-with-screen-time-iphbfa595995)** page ,[^2] where I can view a report of my phone usage, including _which apps/websites I use most_, _how often I pick up my phone_, and even _what times of day I am most active_ throughout the day. [^3]
+When I tap on it, it takes me straight to the **[Screen Time Summary](https://support.apple.com/guide/iphone/get-started-with-screen-time-iphbfa595995)** page ,[^2] where I can view a breakdown report of my phone usage, including _which apps/websites I use most_, _how often I pick up my phone_, and even _what times of day I am most active_ throughout the day. [^3]
 
 |                        ![](../../../_attachments/e31f4582014b484ada425661df1286e7.PNG)                         |                    ![](../../../_attachments/af26e322fec959c393779754eb7f43b5.PNG)                    |
 | :-------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
 | A day of intense focus on building shortcuts left me feeling completely overwhelmed. 😣 | For the first time in my entire life, I kept my screen time under 1 hour! 🥳 |
 
-This moment of awareness—by seeing the numbers—helped me to reflect on how I spent my time, [the most valuable asset on the planet](https://paulgraham.com/vb.html), and adjust my behaviors accordingly.
+This moment of awareness—by seeing the numbers— has helped me wind down with more intention and adjust my behaviors accordingly.
 
 To set it up:
 
@@ -35,7 +35,7 @@ To set it up:
 	4. Add the **“Run Shortcut”** action.
 	5. Select the [“Check Daily Screen Time”](https://www.icloud.com/shortcuts/f68941b5000448128495269faf596bc5) shortcut.
 
-In this AI age of abundant information, we need to become more conscious of our screen time.
+[Time is the most valuable asset on the planet.](https://paulgraham.com/vb.html) In this AI age of abundant information, it's so easy to fall into the endless scroll without even realizing it. We need to become more conscious of our screen time and use our phone with more intention.
 
 It's not about cutting your screen time overnight.
 
@@ -45,9 +45,7 @@ Take 2 minutes today to give it a try!
 
 Ask yourself: **“Did I use my phone today in a way I feel good about?”**
 
-And if not—that's okay—You get to try again tomorrow. 🫶
-
-See also: [Why Apple Shortcuts Can Change Your Life copy](Why%20Apple%20Shortcuts%20Can%20Change%20Your%20Life.md)
+And if not—that's okay—you get to try again tomorrow. 🫶
 
 [^1]: You can also [add a Screen Time widget to your Home Screen](https://support.apple.com/guide/iphone/add-edit-and-remove-widgets-iphb8f1bf206/18.0/ios/18.0#iphefb49b7e0). The widget will display information from your [Screen Time summary](https://support.apple.com/guide/iphone/get-started-with-screen-time-iphbfa595995). However, I found it's a distraction for me as it constantly reminds me of how much time I'm spending on my phone, which sometimes makes me feel stressed or guilty instead of motivated to improve.
 [^2]: If you want to navigate manually to this page, go to **Settings** \> **Screen Time**.
