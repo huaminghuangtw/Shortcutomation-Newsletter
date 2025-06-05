@@ -47,7 +47,7 @@ Ask yourself: **“Did I use my phone today in a way I feel good about?”**
 
 And if not—that's okay—You get to try again tomorrow. 🫶
 
-See also: [Why Apple Shortcuts Can Change Your Life copy](Why%20Apple%20Shortcuts%20Can%20Change%20Your%20Life%20copy.md)
+See also: [Why Apple Shortcuts Can Change Your Life copy](Why%20Apple%20Shortcuts%20Can%20Change%20Your%20Life.md)
 
 [^1]: You can also [add a Screen Time widget to your Home Screen](https://support.apple.com/guide/iphone/add-edit-and-remove-widgets-iphb8f1bf206/18.0/ios/18.0#iphefb49b7e0). The widget will display information from your [Screen Time summary](https://support.apple.com/guide/iphone/get-started-with-screen-time-iphbfa595995). However, I found it's a distraction for me as it constantly reminds me of how much time I'm spending on my phone, which sometimes makes me feel stressed or guilty instead of motivated to improve.
 [^2]: If you want to navigate manually to this page, go to **Settings** \> **Screen Time**.
