@@ -2,7 +2,7 @@
 draft: false
 publishDate: 2025-06-05
 author: Hua-Ming Huang
-tags: Shortcutomation/screen-time
+tags: [Shortcutomation/screen-time]
 ---
 
 I've been trying to be more mindful about how I spend time on my iPhone.
