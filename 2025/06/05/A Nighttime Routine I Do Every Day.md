@@ -35,7 +35,7 @@ Setting this up takes just a few minutes:
 1. Download the following two shortcuts:
 	1. [Check Daily Screen Time](https://www.icloud.com/shortcuts/f68941b5000448128495269faf596bc5)
 	2. [Go to Screen Time Summary](https://shortcutomation.com/gallery/iphone-settings/go-to-screen-time-summary/)
-2. Install the [Scriptable app](https://scriptable.app/) for the [“Check Daily Screen Time”](https://www.icloud.com/shortcuts/f68941b5000448128495269faf596bc5) shortcut to work properly.
+2. Install the [Scriptable app](https://scriptable.app/) for the “Check Daily Screen Time” shortcut to work properly.
 3. Open the Shortcuts app.
 4. Go to the **Automation** tab at the bottom.
 5. Create a new **Personal Automation**:
@@ -49,17 +49,17 @@ In this age of infinite information, almost everything is competing for your att
 
 We must be more intentional with our phone use. That's exactly what [Shortcutomation](https://shortcutomation.com/) is all about: helping people take back their [time—the most valuable asset on the planet.](https://paulgraham.com/vb.html)
 
+[As Tony Robin says](https://youtu.be/b8jS86OtgLA): “_Where focus goes, energy flows._” Your time matters. Your attention is the new oil. Where your attention goes, your energy follows. Choose wisely.
+
 If you do the math, doomscrolling just one hour a day on your phone adds up to 22 full waking days a year—that's 22 straight days spent staring at a screen, time you could reclaim for something more meaningful to build the life you want. [^4]
 
 This isn't about cutting screen time overnight; it's about noticing, recognizing patterns, and creating space to pause, think, and reflect.
 
 Take just 30 seconds today to try this simple ritual:
 
-**Ask yourself:** “_Did I use my phone today in a way that feels good to me?_”
+Ask yourself: “_Did I use my phone today in a way that feels good to me?_”
 
-[As Tony Robin says](https://youtu.be/b8jS86OtgLA): “_Where focus goes, energy flows._” Your time matters. Your attention is the new oil. Where your attention goes, your energy follows. Choose wisely.
-
-Try installing the “Check Daily Screen Time” shortcut now and start your journey toward mindful phone use today!
+Try installing the “Check Daily Screen Time” shortcut and start your journey toward mindful phone use.
 
 [^1]: You can also [add a Screen Time widget to your Home Screen](https://support.apple.com/guide/iphone/add-edit-and-remove-widgets-iphb8f1bf206/18.0/ios/18.0#iphefb49b7e0). The widget will display information from your [Screen Time summary](https://support.apple.com/guide/iphone/get-started-with-screen-time-iphbfa595995). However, I found it's a distraction for me as it constantly reminds me of how much time I'm spending on my phone, which sometimes makes me feel stressed or guilty instead of motivated to improve.
 [^2]: If you want to navigate manually to this page, go to **Settings** \> **Screen Time \> See All App \& Website Activities**.
