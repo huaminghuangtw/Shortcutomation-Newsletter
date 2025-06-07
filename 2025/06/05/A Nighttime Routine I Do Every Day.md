@@ -47,7 +47,7 @@ Setting this up takes just a few minutes:
 
 In this age of infinite information, almost everything is competing for your attention. It's never been easier to slip into endless scrolling.
 
-We must be more intentional with our phone use. That's exactly what [Shortcutomation](https://shortcutomation.com/) is all about: helping people take back their [time—the most valuable asset on the planet.](https://paulgraham.com/vb.html)
+We must be more intentional with our phone use. That's exactly what [Shortcutomation](https://shortcutomation.com/) is all about: **helping people take back their [time—the most valuable asset on the planet.](https://paulgraham.com/vb.html)**
 
 [As Tony Robin says](https://youtu.be/b8jS86OtgLA): “_Where focus goes, energy flows._” Your time matters. Your attention is the new oil. Where your attention goes, your energy follows. Choose wisely.
 
