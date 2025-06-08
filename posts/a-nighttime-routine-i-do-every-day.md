@@ -3,18 +3,22 @@ title: A Nighttime Routine I Do Every Day
 draft: false
 publishDate: 2025-06-05
 author: Hua-Ming Huang
-tags: [Shortcutomation/iphone-settings, Shortcutomation/screen-time]
+tags:
+  - Shortcutomation/iphone-settings
+  - Shortcutomation/screen-time
+created: 2025-06-05T06:31:46
+modified: 2025-06-08T06:05:52
 ---
 
 > _“The price of anything is the amount of life you exchange for it.” — Henry David Thoreau_
 
-Over the past 12 months, I've been working on becoming more conscious of my phone use.
+Over the past 12 months, I've been training myself to become more conscious of my phone use.
 
 After discovering the unofficial list of [Apple's Settings URL schemes](https://github.com/FifiTheBulldog/ios-settings-urls/blob/master/settings-urls.md), I created [a collection of shortcuts](https://shortcutomation.com/gallery/iphone-settings) to automate access to specific iPhone settings.
 
 Each night—about an hour before bed—I use [iOS’s Personal Automation](https://support.apple.com/guide/shortcuts/intro-to-personal-automation-apd690170742/ios) to trigger one of these shortcuts. It sends me a _scheduled, customized_ notification reminding me to review my screen time.[^1]
 
-|                       ![](../../../_attachments/004%200.PNG)                        |
+|                                 ![](../_attachments/004%200.PNG)                                  |
 | :-----------------------------------------------------------------------------------------------: |
 | Every night at 20:00, I received a notification to check my daily screen time on the Lock Screen. |
 
@@ -24,7 +28,7 @@ When I tap it, it opens directly to the [**Screen Time Summary**](https://suppor
 * How often I picked up my phone
 * What times of day I was most active [^3]
 
-|                                        ![](../../../_attachments/e31f4582014b484ada425661df1286e7.PNG)                                         |       ![](../../../_attachments/af26e322fec959c393779754eb7f43b5.PNG)        |
+|                                        ![](../_attachments/e31f4582014b484ada425661df1286e7.PNG)                                         |       ![](../_attachments/af26e322fec959c393779754eb7f43b5.PNG)        |
 | :--------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
 | A day of intense focus on [building shortcuts](https://shortcutomation.com/gallery) left me feeling completely overwhelmed (but fulfilled 😊). | For the first time in my entire life, I kept my screen time under 1 hour! 🥳 |
 
