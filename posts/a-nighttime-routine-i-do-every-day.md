@@ -7,7 +7,7 @@ tags:
   - Shortcutomation/iphone-settings
   - Shortcutomation/screen-time
 created: 2025-06-05T06:31:46
-modified: 2025-06-08T07:03:23
+modified: 2025-06-08T10:50:37
 ---
 
 > _“The price of anything is the amount of life you exchange for it.” — Henry David Thoreau_
@@ -53,9 +53,9 @@ In this age of infinite information, almost everything is competing for your att
 
 We must be more intentional with our phone use. That's exactly what [Shortcutomation](https://shortcutomation.com/) is all about: **helping people take back their [time—the most valuable asset on the planet.](https://paulgraham.com/vb.html)**
 
-[As Tony Robbins says](https://youtu.be/b8jS86OtgLA): “_Where focus goes, energy flows._” Your time matters. Your attention is the new oil. Where your attention goes, your energy follows. Choose wisely.
-
 If you do the math, doomscrolling just one hour a day on your phone adds up to 22 full waking days a year—that's 22 straight days spent staring at a screen, time you could reclaim for something more meaningful to build the life you want. [^4]
+
+[As Tony Robbins says](https://youtu.be/b8jS86OtgLA): “_Where focus goes, energy flows._” Every hour you spend scrolling social media, watching random videos, or switching between tasks drains your energy. But when you direct your attention to meaningful goals—whether it's learning a skill, making progress on a project, or building relationships—your energy fuels real growth. Your attention is the new oil. Use it wisely.
 
 This isn't about cutting screen time overnight; it's about noticing, recognizing patterns, and creating space to pause, think, and reflect.
 
