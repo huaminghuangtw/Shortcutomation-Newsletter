@@ -7,7 +7,7 @@ tags:
   - Shortcutomation/iphone-settings
   - Shortcutomation/screen-time
 created: 2025-06-05T06:31:46
-modified: 2025-06-08T10:50:37
+modified: 2025-06-12T08:01:04
 ---
 
 > _“The price of anything is the amount of life you exchange for it.” — Henry David Thoreau_
@@ -37,7 +37,7 @@ That moment of awareness—seeing the actual numbers—has helped me wind down w
 Setting this up takes just a few minutes:
 
 1. Download the following two shortcuts:
-	1. [Check Daily Screen Time](https://www.icloud.com/shortcuts/f68941b5000448128495269faf596bc5)
+	1. [Check Daily Screen Time](https://shortcutomation.com/gallery/shared/check-daily-screen-time/)
 	2. [Go to Screen Time Summary](https://shortcutomation.com/gallery/iphone-settings/go-to-screen-time-summary/)
 2. Install the [Scriptable app](https://scriptable.app/) for the “Check Daily Screen Time” shortcut to work properly.
 3. Open the Shortcuts app.
