@@ -7,7 +7,7 @@ tags:
   - Shortcutomation/iphone-settings
   - Shortcutomation/screen-time
 created: 2025-06-05T06:31:46
-modified: 2025-06-30T09:55:56
+modified: 2025-06-30T20:08:58
 ---
 
 > _“The price of anything is the amount of life you exchange for it.” — Henry David Thoreau_
