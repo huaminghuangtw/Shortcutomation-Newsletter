@@ -7,7 +7,7 @@ tags:
   - Shortcutomation/iphone-settings
   - Shortcutomation/screen-time
 created: 2025-06-05T06:31:46
-modified: 2025-06-30T20:08:58
+modified: 2025-07-02T10:40:20
 ---
 
 > _“The price of anything is the amount of life you exchange for it.” — Henry David Thoreau_
@@ -28,7 +28,7 @@ When I tap it, it opens directly to the [**Screen Time Summary**](https://suppor
 * How often I picked up my phone
 * What times of day I was most active [^3]
 
-|                                        ![](../_attachments/e31f4582014b484ada425661df1286e7.PNG)                                         |       ![](../_attachments/af26e322fec959c393779754eb7f43b5.PNG)        |
+|                                           ![](../_attachments/e31f4582014b484ada425661df1286e7.PNG)                                            |          ![](../_attachments/af26e322fec959c393779754eb7f43b5.PNG)           |
 | :--------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
 | A day of intense focus on [building shortcuts](https://shortcutomation.com/gallery) left me feeling completely overwhelmed (but fulfilled 😊). | For the first time in my entire life, I kept my screen time under 1 hour! 🥳 |
 
