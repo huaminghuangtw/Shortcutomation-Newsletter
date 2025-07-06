@@ -1,13 +1,13 @@
 ---
 title: A Nighttime Routine I Do Every Day
+created: 2025-06-05T06:31:46
+modified: 2025-07-05T08:52:57
 draft: false
 publishDate: 2025-06-05
 author: Hua-Ming Huang
 tags:
   - Shortcutomation/iphone-settings
   - Shortcutomation/screen-time
-created: 2025-06-05T06:31:46
-modified: 2025-07-02T12:40:24
 ---
 
 > _“The price of anything is the amount of life you exchange for it.” — Henry David Thoreau_
@@ -18,7 +18,7 @@ After discovering the unofficial list of [Apple's Settings URL schemes](https://
 
 Each night—about an hour before bed—I use [iOS’s Personal Automation](https://support.apple.com/guide/shortcuts/intro-to-personal-automation-apd690170742/ios) to trigger one of these shortcuts. It sends me a _scheduled, customized_ notification reminding me to review my screen time.[^1]
 
-|                                 ![](../_attachments/004%200.PNG)                                  |
+|                                 ![](../_attachments/6e72b2697c7092a5ec3180bd5d050a41.PNG)                                  |
 | :-----------------------------------------------------------------------------------------------: |
 | Every night at 20:00, I received a notification to check my daily screen time on the Lock Screen. |
 

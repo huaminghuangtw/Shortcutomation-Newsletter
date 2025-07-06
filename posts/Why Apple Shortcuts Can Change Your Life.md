@@ -1,10 +1,10 @@
 ---
 title: Why Apple Shortcuts Can Change Your Life
+created: 2025-06-05T06:41:42
+modified: 2025-07-05T08:53:52
 draft: true
 author: Hua-Ming Huang
 tags: []
-created: 2025-06-05T06:41:42
-modified: 2025-07-02T12:40:24
 ---
 
 <!-- TODO -->
