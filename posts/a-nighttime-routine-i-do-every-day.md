@@ -1,10 +1,8 @@
 ---
 title: A Nighttime Routine I Do Every Day
 created: 2025-06-05T06:31:46
-modified: 2025-07-05T08:52:57
+modified: 2025-07-24T08:16:29
 draft: false
-publishDate: 2025-06-05
-author: Hua-Ming Huang
 tags:
   - Shortcutomation/iphone-settings
   - Shortcutomation/screen-time
