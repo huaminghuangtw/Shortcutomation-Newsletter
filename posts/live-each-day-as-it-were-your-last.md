@@ -1,7 +1,7 @@
 ---
-title: Live Each Day as It Were Your Last
+title: Live Each Day As It Were Your Last
 created: 2025-07-15T06:10:13
-modified: 2025-07-24T08:54:51
+modified: 2025-07-24T12:05:04
 draft: false
 tags:
   - Shortcutomation/lifeos-toolkits
@@ -24,9 +24,9 @@ Every morning, my Lock Screen greets me with these numbers, thanks to a [Persona
 
 ![](../_attachments/e0b4637539a67143518431b5b1106a7c.png)
 
-It's not the number that is the most important, but seeing the number _changing_ day after day that makes the difference. It internalizes the certainty of death, helping me **reverse-engineer** what matters most _this moment, [this pixel](https://waitbutwhy.com/2013/11/life-is-picture-but-you-live-in-pixel.html), this now_.
+It's not the number that is the most important, but seeing the number _changing_ day after day that makes the difference. It internalizes the certainty of death, rewriting my brain to reverse-engineer what matters most _this moment, [this pixel](https://waitbutwhy.com/2013/11/life-is-picture-but-you-live-in-pixel.html), this now_.
 
-I used to put off small joys—calling a loved one, taking a walk, savoring a meal—thinking there would always be more time later. But _later_ often means _never_. [It's later than you think.](https://www.youtube.com/watch?v=nFxjnUPRwx4) Now, the [Death Clock](https://shortcutomation.com/gallery/shared/death-clock/) reminds me that every second I'm dying, and I find myself prioritizing what truly matters.
+I used to put off small joys—[calling a loved one](https://shortcutomation.com/gallery/lifeos-toolkits/call-people-i-love/), taking a walk, savoring a meal—thinking there would always be more time later. But _later_ often means _never_. [It's later than you think.](https://www.youtube.com/watch?v=nFxjnUPRwx4) Now, the [Death Clock](https://shortcutomation.com/gallery/shared/death-clock/) reminds me that every single second I'm dying, life is slipping away—prompting me to prioritize what truly matters most.
 
 > _“Almost everything…just fall[s] away in the face of death, leaving only what is truly important…Remembering that you are going to die is the best way I know to avoid the trap of thinking: you have something to lose. You are already naked. There is no reason not to follow your heart.” — Steve Jobs_ [^1]
 
@@ -36,9 +36,11 @@ Mitch Albom once said in _Tuesdays With Morrie_:
 
 > _“The truth is, once you learn how to die, you learn how to live.”_
 
-I believe that _learning how to die_ means being prepared for it—knowing that it's inevitably coming. Once you accept that _[death is not the opposite of it, but rather an essential part of it](https://www.goodreads.com/quotes/83202-death-is-not-the-opposite-of-life-but-a-part)_, you begin to appreciate the little small things in your day and take in whatever comes your way.
+I believe that _learning how to die_ means being prepared for it—knowing that it's inevitably coming. Once you accept that [death is not the opposite of life, but rather an essential part of it](https://www.goodreads.com/quotes/83202-death-is-not-the-opposite-of-life-but-a-part), you begin to notice and appreciate the little small things in your day, welcoming whatever comes your way.
 
-So, [live each day as it were your last, because someday you'll certainly be right.](https://youtu.be/UF8uR6Z6KLc?t=552) Don't be a “Living Dead.” Never _die_ before you are _dead_. [One day, your life will flash before your eyes. Make sure it's worth watching.](https://www.goodreads.com/quotes/254656-one-day-your-life-will-flash-before-your-eyes-make)
+So, [live each day as it were your last, because someday you'll certainly be right.](https://youtu.be/UF8uR6Z6KLc?t=552)
+
+Don't be a “Living Dead.” Never _die_ before you are _dead_. [One day, your life will flash before your eyes. Make sure it's worth watching.](https://www.goodreads.com/quotes/254656-one-day-your-life-will-flash-before-your-eyes-make)
 
 [In the end, it's not the years in your life that count. It's the life in your years.](https://www.goodreads.com/quotes/5851097-and-in-the-end-it-s-not-the-years-in-your)
 
