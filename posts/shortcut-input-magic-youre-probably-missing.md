@@ -1,7 +1,7 @@
 ---
 title: Shortcut Input Magic You’re Probably Missing
 created: 2025-07-29T07:58:57
-modified: 2025-07-29T09:28:24
+modified: 2025-07-29T12:38:28
 draft: false
 tags:
   - Shortcutomation/tips
@@ -9,11 +9,11 @@ tags:
 
 By default, Shortcuts proceeds _if no input is provided_—but did you know you can change this behavior?
 
-![](Pasted%20image%2020250729082319.png)
+![](../_attachments/a80dd0f5804198ab923b05d496b2fd31.png)
 
 Tap the “Continue” bubble, you will see the following three options:
 
-![](Pasted%20image%2020250729082410.png)
+![](../_attachments/d031ca86ce01bc698608c6df274ab154.png)
 
 1. **Stop and Respond**
 
@@ -22,7 +22,7 @@ Tap the “Continue” bubble, you will see the following three options:
 
 2. **Ask For**
 
-	![](Pasted%20image%2020250729083125.png)
+	![](../_attachments/22bbd89ab9af292353b7d9eda9705d42.png)
 
 	* Prompts the user to enter or pick a value of the specific type.
 	* ⭐️ This is my favorite choice for shortcuts that require input. For example:
