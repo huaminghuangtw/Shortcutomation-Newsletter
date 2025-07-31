@@ -1,10 +1,11 @@
 ---
 title: Live Each Day As It Were Your Last
 created: 2025-07-15T06:10:13
-modified: 2025-07-29T06:40:04
+modified: 2025-07-30T11:51:07
 draft: false
 tags:
   - Shortcutomation/lifeos-toolkits
+  - Shortcutomation/shortcut-sharing
 ---
 
 What if you could visualize, every day, how much of your life has already passed?
