@@ -1,7 +1,7 @@
 ---
 title: A Midday Routine I Do Every Day
 created: 2025-07-30T07:48:20
-modified: 2025-07-31T14:31:23
+modified: 2025-07-31T21:40:48
 draft: false
 tags:
   - Shortcutomation/lifeos-toolkits
@@ -22,7 +22,7 @@ You can enhance your nap with techniques like [“Nappuccino”](https://en.wiki
 
 My favorite is [Non-Sleep Deep Rest (NSDR), coined by Dr. Andrew Huberman](https://youtu.be/lIo9FcrljDk?t=1739). NSDR is a zero-cost, science-backed protocol that restores your mental and physical energy, _even if you don't fall asleep_. [^2]
 
-To make things easier, I built the [“Brain Recharger”](https://shortcutomation.com/gallery/lifeos-toolkits/brain-recharger/) shortcut. It covers the essentials of my reset ritual—connecting headphones, adjusting the volume, locking the screen, and playing [NSDR scripts](https://www.youtube.com/playlist?list=PLPNW_gerXa4MFy52YhdZJYhOk11KdfG9G) [^3]—delivering a quick energy boost for the rest of the day.
+To make things easier, I built the [“Brain Recharger”](https://shortcutomation.com/gallery/lifeos-toolkits/brain-recharger/) shortcut. It covers the essentials of my reset ritual—connecting headphones, adjusting the volume, locking the screen, and playing [NSDR scripts](https://www.youtube.com/playlist?list=PLPNW_gerXa4MFy52YhdZJYhOk11KdfG9G) [^3]—providing a quick energy boost for the rest of the day.
 
 ## Human are not machines
 
