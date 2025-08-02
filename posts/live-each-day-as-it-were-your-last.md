@@ -1,7 +1,7 @@
 ---
-title: Live Each Day As It Were Your Last
+title: Live Each Day as It Were Your Last
 created: 2025-07-15T06:10:13
-modified: 2025-07-30T11:51:07
+modified: 2025-08-02T15:26:40
 draft: false
 tags:
   - Shortcutomation/lifeos-toolkits
@@ -16,7 +16,7 @@ Ancient wisdom always teaches us life principles and philosophies. They stood th
 
 Death is the ultimate equalizer. Despite our differences in appearance, cultures, and beliefs, we are all going to die. Death is the destination we all share. No one has ever escaped it.
 
-This universal truth inspired me to build a **[Death Clock](https://shortcutomation.com/gallery/shared/death-clock/)**. It calculates two simple metrics:
+This universal truth inspired me to build a **[Death Clock](https://shortcutomation.com/gallery/shared/death-clock/)**. It calculates two metrics:
 
 1. How old I am.
 2. What percentage of my life is (probably) behind me.
@@ -25,9 +25,9 @@ Every morning, my Lock Screen greets me with these numbers, thanks to a [Persona
 
 ![](../_attachments/4b4ce1d10ae09059857f00b70a8315ff.jpg)
 
-It's not the number that is the most important, but seeing the number _changing_ day after day that makes the difference. It internalizes the certainty of death, rewriting my brain to reverse-engineer what matters most _this moment, [this pixel](https://waitbutwhy.com/2013/11/life-is-picture-but-you-live-in-pixel.html), this now_.
+I used to put off small joys in _this moment, [this pixel](https://waitbutwhy.com/2013/11/life-is-picture-but-you-live-in-pixel.html), this now_—[calling a loved one](https://shortcutomation.com/gallery/lifeos-toolkits/call-people-i-love/), taking a walk, savoring a meal—thinking there would always be more time later. But _later_ often means _never_. [It's later than you think.](https://www.youtube.com/watch?v=nFxjnUPRwx4)
 
-I used to put off small joys—[calling a loved one](https://shortcutomation.com/gallery/lifeos-toolkits/call-people-i-love/), taking a walk, savoring a meal—thinking there would always be more time later. But _later_ often means _never_. [It's later than you think.](https://www.youtube.com/watch?v=nFxjnUPRwx4) Now, the [Death Clock](https://shortcutomation.com/gallery/shared/death-clock/) reminds me that every single second I'm dying, life is slipping away—prompting me to prioritize what truly matters most.
+The [Death Clock](https://shortcutomation.com/gallery/shared/death-clock/) reminds me that every single second I'm dying. It internalizes the certainty of death, rewiring my brain to prioritize what I might [regret on my deathbed](https://bronnieware.com/regrets-of-the-dying/). **It's not the number that is the most important, but seeing the number changing day after day that makes the difference.**
 
 > _“Almost everything…just fall[s] away in the face of death, leaving only what is truly important…Remembering that you are going to die is the best way I know to avoid the trap of thinking: you have something to lose. You are already naked. There is no reason not to follow your heart.” — Steve Jobs_ [^1]
 
