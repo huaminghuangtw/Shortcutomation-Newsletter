@@ -1,7 +1,7 @@
 ---
 title: A Midday Routine I Do Every Day
 created: 2025-07-30T07:48:20
-modified: 2025-07-31T21:40:48
+modified: 2025-08-02T14:14:50
 draft: false
 tags:
   - Shortcutomation/lifeos-toolkits
@@ -30,7 +30,7 @@ To make things easier, I built the [“Brain Recharger”](https://shortcutomati
 
 I used to struggle with giving myself permission to take breaks. Whenever I did, I felt guilty—often sneaking in bits of work rather than allowing myself to fully recharge. I was constantly in hustle mode—chained to my desk for hours and caught in The Busy Trap, a treadmill that led nowhere.
 
-Now, I learned the importance of prioritizing downtime and [sharpening the saw](https://sketchplanations.com/sharpen-the-saw). To perform at my best, I have to work with my biology, not against it—I'm human, not a machine. If I want to speed up later, I need to slow down first—because slow is smooth, smooth is fast, and slow and steady wins the race.
+Now, I learned the importance of prioritizing downtime and [sharpening the saw](https://sketchplanations.com/sharpen-the-saw). To perform at my best, I have to work with my biology, not against it—I'm human, not a machine. If I want to speed up later, I need to slow down first—**because slow is smooth, smooth is fast, and slow and steady wins the race.**
 
 So, stop treating rest as a reward—it's not a special indulgence, but an absolute necessity. Downtime deserves time management as well. Replace the label “relaxing” or “relaxation” with “recovery,” so you don't see it as wasted time. Think of relaxing as recovery, because it truly is. Remember: If rest increases your output per unit of time, it's productive. Learn to rest, not to quit.
 
