@@ -1,8 +1,9 @@
 ---
 title: A Midday Routine I Do Every Day
 created: 2025-07-30T07:48:20
-modified: 2025-08-02T14:14:50
+modified: 2025-08-09T16:15:07
 draft: false
+featured: true
 tags:
   - Shortcutomation/lifeos-toolkits
   - Shortcutomation/shortcut-sharing
