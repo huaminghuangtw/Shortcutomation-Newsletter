@@ -1,11 +1,11 @@
 ---
 title: Shortcut Input Magic You’re Probably Missing
 created: 2025-07-29T07:58:57
-modified: 2025-08-09T16:15:26
+modified: 2025-08-12T08:05:13
 draft: false
 featured: false
 tags:
-  - Shortcutomation/tip&guide
+  - Shortcutomation/dev-tip
 ---
 
 By default, Shortcuts proceeds _if no input is provided_—but did you know you can change this behavior?
@@ -37,5 +37,9 @@ Tap the “Continue” bubble, you will see the following three options:
 	* Useful when users need to pre-copy text before running the shortcut.
 
 By selecting the right input option, your shortcuts become intuitive, user-friendly, and able to manage [edge cases](https://en.wikipedia.org/wiki/Edge_case) more effectively.
+
+---
+
+💡 Want more tips for building shortcuts? Follow this page: [huami.ng/lists/shortcut-dev-tip](https://huami.ng/lists/shortcut-dev-tip)
 
 [^1]: Leave the “Response” field empty if you don't want to display anything.
