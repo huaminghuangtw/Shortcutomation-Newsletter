@@ -1,7 +1,7 @@
 ---
 title: Hidden Keyboard Shortcuts for Apple Shortcuts
 created: 2025-08-12T06:32:58
-modified: 2025-08-12T14:16:00
+modified: 2025-08-15T10:20:23
 draft: false
 featured: false
 tags:
@@ -35,4 +35,4 @@ Here are some Mac keyboard shortcuts for Apple Shortcuts. I didn't find them in 
 
 ---
 
-💡 Want more tips for building shortcuts? Follow this page: [huami.ng/lists/shortcut-dev-tip](https://huami.ng/lists/shortcut-dev-tip)
+💡 Want more tips for building shortcuts? Follow this page: [huami.ng/lists/shortcuts-dev-tip](https://huami.ng/lists/shortcuts-dev-tip)
