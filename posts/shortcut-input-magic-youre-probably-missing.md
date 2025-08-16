@@ -1,7 +1,7 @@
 ---
 title: Shortcut Input Magic You’re Probably Missing
 created: 2025-07-29T07:58:57
-modified: 2025-08-12T08:05:13
+modified: 2025-08-15T10:20:43
 draft: false
 featured: false
 tags:
@@ -40,6 +40,6 @@ By selecting the right input option, your shortcuts become intuitive, user-frien
 
 ---
 
-💡 Want more tips for building shortcuts? Follow this page: [huami.ng/lists/shortcut-dev-tip](https://huami.ng/lists/shortcut-dev-tip)
+💡 Want more tips for building shortcuts? Follow this page: [huami.ng/lists/shortcuts-dev-tip](https://huami.ng/lists/shortcuts-dev-tip)
 
 [^1]: Leave the “Response” field empty if you don't want to display anything.
