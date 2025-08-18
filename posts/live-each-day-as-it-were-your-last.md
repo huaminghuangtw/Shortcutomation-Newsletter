@@ -1,7 +1,8 @@
 ---
 title: Live Each Day as It Were Your Last
+description: 
 created: 2025-07-15T06:10:13
-modified: 2025-08-09T16:15:19
+modified: 2025-08-18T06:38:58
 draft: false
 featured: true
 tags:
