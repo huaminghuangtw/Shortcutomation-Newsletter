@@ -1,7 +1,8 @@
 ---
 title: Hidden Keyboard Shortcuts for Apple Shortcuts
+description: 
 created: 2025-08-12T06:32:58
-modified: 2025-08-15T10:20:23
+modified: 2025-08-18T06:38:54
 draft: false
 featured: false
 tags:
