@@ -1,7 +1,8 @@
 ---
 title: Shortcut Input Magic You’re Probably Missing
+description: 
 created: 2025-07-29T07:58:57
-modified: 2025-08-15T10:20:43
+modified: 2025-08-18T06:39:02
 draft: false
 featured: false
 tags:
