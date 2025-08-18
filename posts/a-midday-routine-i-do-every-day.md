@@ -1,7 +1,8 @@
 ---
 title: A Midday Routine I Do Every Day
+description: 
 created: 2025-07-30T07:48:20
-modified: 2025-08-10T13:47:39
+modified: 2025-08-18T06:38:43
 draft: false
 featured: true
 tags:
