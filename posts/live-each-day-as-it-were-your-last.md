@@ -1,14 +1,16 @@
 ---
 title: Live Each Day as It Were Your Last
-description: 
+description:
 created: 2025-07-15T06:10:13
-modified: 2025-08-18T06:38:58
+modified: 2025-08-26T15:04:34
 draft: false
 featured: true
 tags:
   - Shortcutomation/lifeos-toolkits
   - Shortcutomation/shortcut-sharing
 ---
+
+> _“Every man has two lives, and the second starts when he realizes he has just one.” — Confucius_
 
 What if you could visualize, every day, how much of your life has already passed?
 
@@ -41,9 +43,9 @@ Mitch Albom once said in _Tuesdays With Morrie_:
 
 I believe that _learning how to die_ means being prepared for it—knowing that it's inevitably coming. Once you accept that death is not the opposite of life, but rather an essential part of it, you begin to notice and appreciate the little small things in your day, welcoming whatever comes your way.
 
-So, live each day as it were your last, because someday you'll certainly be right.
+So, live each day as it were your last, because someday you'll certainly be right. Every time you do something that is one less time you could do it. Cherish every moment of your life like it is your last, because it very likely might be. Every single thing you do today is something your ninety-year-old self will wish they could come back and do. The good old days are happening right now.
 
-Don't be a “Living Dead.” Never _die_ before you are _dead_. One day, your life will flash before your eyes. Make sure it's worth watching.
+Make the rest of your life the best of your life. Don't live the same year 75 times and call it a life. Don't be a “Living Dead.” Never _die_ before you are _dead_. One day, your life will flash before your eyes. Make sure it's worth watching.
 
 In the end, it's not the years in your life that count. It's the life in your years.
 
