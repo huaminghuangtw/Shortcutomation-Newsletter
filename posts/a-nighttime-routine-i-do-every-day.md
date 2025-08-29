@@ -1,8 +1,8 @@
 ---
 title: A Nighttime Routine I Do Every Day
-description: 
+description:
 created: 2025-06-05T06:31:46
-modified: 2025-08-18T06:38:49
+modified: 2025-08-29T08:30:45
 draft: false
 featured: true
 tags:
@@ -13,7 +13,7 @@ tags:
 
 > _“The price of anything is the amount of life you exchange for it.” — Henry David Thoreau_
 
-Over the past 12 months, I've been training myself to become more conscious of my phone use.
+Over the past 12 months, I’ve been training myself to become more conscious of my phone use.
 
 After discovering the unofficial list of [Apple's Settings URL schemes](https://github.com/FifiTheBulldog/ios-settings-urls/blob/master/settings-urls.md), I created [a collection of shortcuts](https://shortcutomation.com/gallery/iphone-settings) to automate access to specific iPhone settings.
 
@@ -50,19 +50,19 @@ Setting this up takes just a few minutes:
 	4. Add the **“Run Shortcut”** action.
 	5. Select the “Check Daily Screen Time” shortcut.
 
-In this age of infinite information, almost everything is competing for your attention. It's never been easier to slip into endless scrolling.
+In this age of infinite information, almost everything is competing for your attention. It’s never been easier to slip into endless scrolling.
 
-We must be more intentional with our phone use. That's exactly what [Shortcutomation](https://shortcutomation.com/) is all about: **helping people take back their [time—the most valuable asset on the planet.](https://paulgraham.com/vb.html)**
+We must be more intentional with our phone use. That’s exactly what [Shortcutomation](https://shortcutomation.com/) is all about: **helping people take back their [time—the most valuable asset on the planet.](https://paulgraham.com/vb.html)**
 
-If you do the math, doomscrolling just one hour a day on your phone adds up to 22 full waking days a year—that's 22 straight days spent staring at a screen, time you could reclaim for something more meaningful to build the life you want. [^4]
+If you do the math, doomscrolling just one hour a day on your phone adds up to 22 full waking days a year—that’s 22 straight days spent staring at a screen, time you could reclaim for something more meaningful to build the life you want. [^4]
 
-[As Tony Robbins says](https://youtu.be/b8jS86OtgLA): “_Where focus goes, energy flows._” Every hour you spend scrolling social media, watching random videos, or switching between tasks drains your energy. But when you direct your attention to meaningful goals—whether it's learning a skill, making progress on a project, or building relationships—your energy fuels real growth.
+[As Tony Robbins says](https://youtu.be/b8jS86OtgLA): “_Where focus goes, energy flows._” Every hour you spend scrolling social media, watching random videos, or switching between tasks drains your energy. But when you direct your attention to meaningful goals—whether it’s learning a skill, making progress on a project, or building relationships—your energy fuels real growth.
 
 Your attention is the new oil. Use it wisely.
 
 You become what you scroll. Choose accordingly.
 
-This isn't about cutting screen time overnight; it's about noticing, recognizing patterns, and creating space to pause, think, and reflect.
+This isn’t about cutting screen time overnight; it’s about noticing, recognizing patterns, and creating space to pause, think, and reflect.
 
 Take just 30 seconds today to try this simple ritual:
 
@@ -70,7 +70,7 @@ Ask yourself: “_Did I use my phone today in a way that feels good to me?_”
 
 Try installing the “Check Daily Screen Time” shortcut and start your journey toward mindful phone use.
 
-[^1]: You can also [add a Screen Time widget to your Home Screen](https://support.apple.com/guide/iphone/add-edit-and-remove-widgets-iphb8f1bf206/18.0/ios/18.0#iphefb49b7e0). The widget will display information from your [Screen Time summary](https://support.apple.com/guide/iphone/get-started-with-screen-time-iphbfa595995). However, I found it's a distraction for me as it constantly reminds me of how much time I'm spending on my phone, which sometimes makes me feel stressed or guilty instead of motivated to improve.
+[^1]: You can also [add a Screen Time widget to your Home Screen](https://support.apple.com/guide/iphone/add-edit-and-remove-widgets-iphb8f1bf206/18.0/ios/18.0#iphefb49b7e0). The widget will display information from your [Screen Time summary](https://support.apple.com/guide/iphone/get-started-with-screen-time-iphbfa595995). However, I found it’s a distraction for me as it constantly reminds me of how much time I’m spending on my phone, which sometimes makes me feel stressed or guilty instead of motivated to improve.
 [^2]: If you want to navigate manually to this page, go to **Settings** \> **Screen Time \> See All App \& Website Activities**.
 [^3]: You can also check a _weekly summary_ and see _which apps are sending you the most notifications_.
-[^4]: I assume 16 waking hours per day instead of 24 because I believe it's a more accurate representation of day-to-day life. Hence the calculation: 365 days × 1 hour/day ÷ 16 waking hours per day ≈ 22 days.
+[^4]: I assume 16 waking hours per day instead of 24 because I believe it’s a more accurate representation of day-to-day life. Hence the calculation: 365 days × 1 hour/day ÷ 16 waking hours per day ≈ 22 days.
