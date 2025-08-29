@@ -1,8 +1,8 @@
 ---
 title: Shortcut Input Magic You’re Probably Missing
-description: 
+description:
 created: 2025-07-29T07:58:57
-modified: 2025-08-18T06:39:02
+modified: 2025-08-29T08:30:45
 draft: false
 featured: false
 tags:
@@ -30,7 +30,7 @@ Tap the “Continue” bubble, you will see the following three options:
 	* ⭐️ This is my favorite choice for shortcuts that require input. For example:
 		1. Ask For “Date” in the [“❝ Capture Quotes”](https://shortcutomation.com/gallery/second-brain/capture-quotes/) shortcut
 		2. Ask For “Text” in the [“✏️ Create New Journal”](https://shortcutomation.com/gallery/journaling/create-new-journal/) shortcut
-	* If you prefer **Continue**, add an **If Shortcut Input doesn't have any value** block at the start to deal with missing input. However, using **Ask For** removes this extra step—see the [“Reverse Image Search”](https://shortcutomation.com/gallery/standalone-fun/reverse-image-search/) example.
+	* If you prefer **Continue**, add an **If Shortcut Input doesn’t have any value** block at the start to deal with missing input. However, using **Ask For** removes this extra step—see the [“Reverse Image Search”](https://shortcutomation.com/gallery/standalone-fun/reverse-image-search/) example.
 
 3. **Get Clipboard**
 
@@ -43,4 +43,4 @@ By selecting the right input option, your shortcuts become intuitive, user-frien
 
 💡 Want more tips for building shortcuts? Follow this page: [huami.ng/lists/shortcuts-dev-tip](https://huami.ng/lists/shortcuts-dev-tip)
 
-[^1]: Leave the “Response” field empty if you don't want to display anything.
+[^1]: Leave the “Response” field empty if you don’t want to display anything.
