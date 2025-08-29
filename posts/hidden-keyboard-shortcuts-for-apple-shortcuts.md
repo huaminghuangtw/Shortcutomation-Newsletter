@@ -1,8 +1,8 @@
 ---
 title: Hidden Keyboard Shortcuts for Apple Shortcuts
-description: 
+description:
 created: 2025-08-12T06:32:58
-modified: 2025-08-18T06:38:54
+modified: 2025-08-29T08:30:45
 draft: false
 featured: false
 tags:
@@ -15,7 +15,7 @@ Then I realized I could build Shortcuts on my MacBook too. I started _dragging a
 
 Now, I use my MacBook to [create shortcuts](https://github.com/huaminghuangtw/Shortcutomation/releases) and only use my iPhone for testing and fixing bugs.
 
-Here are some Mac keyboard shortcuts for Apple Shortcuts. I didn't find them in any guide. I discovered them by trying things out and making mistakes.
+Here are some Mac keyboard shortcuts for Apple Shortcuts. I didn’t find them in any guide. I discovered them by trying things out and making mistakes.
 
 | Keyboard Shortcut        | Description                       |
 | --------------- | --------------------------------- |
