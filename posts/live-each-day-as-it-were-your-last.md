@@ -1,8 +1,9 @@
 ---
 title: Live Each Day as It Were Your Last
+canonicalURL: https://shortcutomation.com/2025/7/15/live-each-day-as-it-were-your-last
 description:
 created: 2025-07-15T06:10:13
-modified: 2025-08-29T08:30:45
+modified: 2025-09-01T17:26:28
 draft: false
 featured: true
 tags:
