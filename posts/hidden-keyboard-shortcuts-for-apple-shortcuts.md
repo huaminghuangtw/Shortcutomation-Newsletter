@@ -3,7 +3,7 @@ title: Hidden Keyboard Shortcuts for Apple Shortcuts
 canonicalURL: https://shortcutomation.com/2025/8/12/hidden-keyboard-shortcuts-for-apple-shortcuts
 description:
 created: 2025-08-12T06:32:58
-modified: 2025-09-01T17:26:10
+modified: 2025-10-28T09:52:44
 draft: false
 featured: false
 tags:
@@ -31,10 +31,10 @@ Here are some Mac keyboard shortcuts for Apple Shortcuts. I didn’t find them i
 | `Cmd + Shift + R` | Add action: “Repeat”              |
 | `Cmd + Shift + S` | Add action: “Show Result”         |
 
-[Keyboard shortcuts](https://huami.ng/lists/keyboard-hotkey/) are a small investment with huge returns. The more you use them, the more time you save. At first, you might have to look them up all the time. But you can get better through practices. Mastering keyboard shortcuts has meant less context switching and more focus for me.
+[Keyboard shortcuts](https://huami.ng/keyboard-hotkey/) are a small investment with huge returns. The more you use them, the more time you save. At first, you might have to look them up all the time. But you can get better through practices. Mastering keyboard shortcuts has meant less context switching and more focus for me.
 
 **If you know other shortcuts, please share with me. I will add them to the table.**
 
 ---
 
-💡 Want more tips for building shortcuts? Follow this page: [huami.ng/lists/shortcuts-dev-tip](https://huami.ng/lists/shortcuts-dev-tip)
+💡 Want more tips for building shortcuts? Follow this page: [huami.ng/shortcuts-dev-tip](https://huami.ng/shortcuts-dev-tip)
