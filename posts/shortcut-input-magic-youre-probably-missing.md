@@ -3,7 +3,7 @@ title: Shortcut Input Magic You’re Probably Missing
 canonicalURL: https://shortcutomation.com/2025/7/29/shortcut-input-magic-youre-probably-missing
 description:
 created: 2025-07-29T07:58:57
-modified: 2025-09-01T17:26:46
+modified: 2025-10-28T09:55:02
 draft: false
 featured: false
 tags:
@@ -42,6 +42,6 @@ By selecting the right input option, your shortcuts become intuitive, user-frien
 
 ---
 
-💡 Want more tips for building shortcuts? Follow this page: [huami.ng/lists/shortcuts-dev-tip](https://huami.ng/lists/shortcuts-dev-tip)
+💡 Want more tips for building shortcuts? Follow this page: [huami.ng/shortcuts-dev-tip](https://huami.ng/shortcuts-dev-tip)
 
 [^1]: Leave the “Response” field empty if you don’t want to display anything.
