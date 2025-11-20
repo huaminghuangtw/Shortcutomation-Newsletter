@@ -3,7 +3,7 @@ title: Live Each Day as if It Were Your Last
 canonicalURL: https://shortcutomation.com/2025/7/15/live-each-day-as-if-it-were-your-last
 description:
 created: 2025-07-15T06:10:13
-modified: 2025-10-16T12:17:47
+modified: 2025-11-20T18:10:26
 draft: false
 featured: true
 tags:
@@ -30,7 +30,7 @@ Every morning, my Lock Screen greets me with these numbers, thanks to a [Persona
 
 ![](../_attachments/4b4ce1d10ae09059857f00b70a8315ff.jpg)
 
-I used to put off small joys in _this moment, [this pixel](https://waitbutwhy.com/2013/11/life-is-picture-but-you-live-in-pixel.html), this now_—[calling a loved one](https://shortcutomation.com/gallery/lifeos-toolkits/call-people-i-love/), taking a walk, savoring a meal—thinking there would always be more time later. But _later_ often means _never_. [It's later than you think.](https://www.youtube.com/watch?v=nFxjnUPRwx4)
+I used to put off small joys in _this moment, [this pixel](https://waitbutwhy.com/2013/11/life-is-picture-but-you-live-in-pixel.html), this now_—[calling a loved one](https://shortcutomation.com/gallery/lifeos-toolkits/call-people-i-love/), taking a walk, savoring a meal—thinking there would always be more time later. But _later_ often means _never_. [It’s later than you think.](https://www.youtube.com/watch?v=nFxjnUPRwx4)
 
 The [Death Clock](https://shortcutomation.com/gallery/shared/death-clock/) reminds me that every single second I’m dying. It internalizes the certainty of death, rewiring my brain to prioritize what I might [regret on my deathbed](https://bronnieware.com/regrets-of-the-dying/). **It’s not the number that is the most important, but seeing the number changing day after day that makes the difference.**
 
