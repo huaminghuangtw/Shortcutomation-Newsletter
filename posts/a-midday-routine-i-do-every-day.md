@@ -3,7 +3,7 @@ title: A Midday Routine I Do Every Day
 canonicalURL: https://shortcutomation.com/2025/7/30/a-midday-routine-i-do-every-day
 description:
 created: 2025-07-30T07:48:20
-modified: 2025-09-01T17:29:51
+modified: 2025-11-20T18:10:26
 draft: false
 featured: true
 tags:
@@ -42,5 +42,5 @@ This tool will help you to get most of your work done outside of work.
 Happy napping!
 
 [^1]: According to [Wikipedia](https://en.wikipedia.org/wiki/Adenosine), adenosine gradually builds up in the brain throughout the day. Increased adenosine promotes one’s need to sleep—often referred to as **Sleep Drive** or **Sleep Pressure**.
-[^2]: For more details, visit [Huberman Lab's website](https://www.hubermanlab.com/nsdr).
+[^2]: For more details, visit [Huberman Lab’s website](https://www.hubermanlab.com/nsdr).
 [^3]: To ensure the shortcut works offline, I pre-downloaded the NSDR scripts as mp3 files and stored them on iCloud Drive.
