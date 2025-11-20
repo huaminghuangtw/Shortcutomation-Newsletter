@@ -3,7 +3,7 @@ title: A Nighttime Routine I Do Every Day
 canonicalURL: https://shortcutomation.com/2025/6/5/a-nighttime-routine-i-do-every-day
 description:
 created: 2025-06-05T06:31:46
-modified: 2025-09-01T17:25:47
+modified: 2025-11-20T18:10:26
 draft: false
 featured: true
 tags:
@@ -16,7 +16,7 @@ tags:
 
 Over the past 12 months, I’ve been training myself to become more conscious of my phone use.
 
-After discovering the unofficial list of [Apple's Settings URL schemes](https://github.com/FifiTheBulldog/ios-settings-urls/blob/master/settings-urls.md), I created [a collection of shortcuts](https://shortcutomation.com/gallery/iphone-settings) to automate access to specific iPhone settings.
+After discovering the unofficial list of [Apple’s Settings URL schemes](https://github.com/FifiTheBulldog/ios-settings-urls/blob/master/settings-urls.md), I created [a collection of shortcuts](https://shortcutomation.com/gallery/iphone-settings) to automate access to specific iPhone settings.
 
 Each night—about an hour before bed—I use [iOS’s Personal Automation](https://support.apple.com/guide/shortcuts/intro-to-personal-automation-apd690170742/ios) to trigger one of these shortcuts. It sends me a _scheduled, customized_ notification reminding me to review my screen time.[^1]
 
