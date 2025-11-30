@@ -3,7 +3,7 @@ title: A Midday Routine I Do Every Day
 canonicalURL: https://shortcutomation.com/2025/7/30/a-midday-routine-i-do-every-day
 description:
 created: 2025-07-30T07:48:20
-modified: 2025-11-20T18:10:26
+modified: 2025-11-30T08:37:11
 draft: false
 featured: true
 tags:
@@ -25,7 +25,7 @@ You can enhance your nap with techniques like [“Nappuccino”](https://en.wiki
 
 My favorite is [Non-Sleep Deep Rest (NSDR), coined by Dr. Andrew Huberman](https://youtu.be/lIo9FcrljDk?t=1739). NSDR is a zero-cost, science-backed protocol that restores your mental and physical energy, _even if you don’t fall asleep_. [^2]
 
-To make things easier, I built the [“Brain Recharger”](https://shortcutomation.com/gallery/lifeos-toolkits/brain-recharger/) shortcut. It covers the essentials of my reset ritual—connecting headphones, adjusting the volume, locking the screen, and playing [NSDR scripts](https://www.youtube.com/playlist?list=PLPNW_gerXa4MFy52YhdZJYhOk11KdfG9G) [^3]—providing a quick energy boost for the rest of the day.
+To make things easier, I built the [“Brain Recharger”](https://shortcutomation.com/brain-recharger/) shortcut. It covers the essentials of my reset ritual—connecting headphones, adjusting the volume, locking the screen, and playing [NSDR scripts](https://www.youtube.com/playlist?list=PLPNW_gerXa4MFy52YhdZJYhOk11KdfG9G) [^3]—providing a quick energy boost for the rest of the day.
 
 > _“The right way to work is like a lion. We’re not meant to graze all day. We’re meant to hunt like lions. So, as a modern knowledge worker, an intellectual athlete, you want to function like an athlete. This means you train hard, then you sprint, then you rest, then you reassess. You get your feedback loop, you train some more, then you sprint again, then you rest, then you reassess.” — Naval Ravikant_
 
@@ -35,7 +35,7 @@ Now, I learned the importance of prioritizing downtime and [sharpening the saw](
 
 So, stop treating rest as a reward—it’s not a special indulgence, but an absolute necessity. Downtime deserves time management as well. Replace the label “relaxing” or “relaxation” with “recovery,” so you don’t see it as wasted time. Think of relaxing as recovery, because it truly is. Remember: If rest increases your output per unit of time, it’s productive. Learn to rest, not to quit.
 
-I use the [“Brain Recharger”](https://shortcutomation.com/gallery/lifeos-toolkits/brain-recharger/) shortcut almost every day. With customizable steps—like adding a timer or your favorite mindfulness audio—it’s easy to create a reset routine that fits your needs.
+I use the [“Brain Recharger”](https://shortcutomation.com/brain-recharger/) shortcut almost every day. With customizable steps—like adding a timer or your favorite mindfulness audio—it’s easy to create a reset routine that fits your needs.
 
 This tool will help you to get most of your work done outside of work.
 
