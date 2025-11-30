@@ -3,7 +3,7 @@ title: Shortcut Input Magic You’re Probably Missing
 canonicalURL: https://shortcutomation.com/2025/7/29/shortcut-input-magic-youre-probably-missing
 description:
 created: 2025-07-29T07:58:57
-modified: 2025-10-28T09:55:02
+modified: 2025-11-30T08:47:34
 draft: false
 featured: false
 tags:
@@ -29,9 +29,9 @@ Tap the “Continue” bubble, you will see the following three options:
 
 	* Prompts the user to enter or pick a value of the specific type.
 	* ⭐️ This is my favorite choice for shortcuts that require input. For example:
-		1. Ask For “Date” in the [“❝ Capture Quotes”](https://shortcutomation.com/gallery/second-brain/capture-quotes/) shortcut
-		2. Ask For “Text” in the [“✏️ Create New Journal”](https://shortcutomation.com/gallery/journaling/create-new-journal/) shortcut
-	* If you prefer **Continue**, add an **If Shortcut Input doesn’t have any value** block at the start to deal with missing input. However, using **Ask For** removes this extra step—see the [“Reverse Image Search”](https://shortcutomation.com/gallery/standalone-fun/reverse-image-search/) example.
+		1. Ask For “Text” in the [“❝ Capture Quotes”](https://shortcutomation.com/capture-quotes/) shortcut
+		2. Ask For “Date” in the [“✏️ Create New Journal”](https://shortcutomation.com/create-new-journal/) shortcut
+	* If you prefer **Continue**, add an **If Shortcut Input doesn’t have any value** block at the start to deal with missing input. However, using **Ask For** removes this extra step—see the [“Reverse Image Search”](https://shortcutomation.com/reverse-image-search/) example.
 
 3. **Get Clipboard**
 
