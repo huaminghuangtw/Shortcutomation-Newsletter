@@ -3,7 +3,7 @@ title: This Apple Shortcut Got Me to Exercise Every Single Day
 canonicalURL: https://shortcutomation.com/2025/11/19/this-apple-shortcut-got-me-to-exercise-every-single-day
 description:
 created: 2025-11-19T06:50:07
-modified: 2025-11-21T04:23:17
+modified: 2025-11-30T15:21:35
 draft: false
 featured: false
 tags:
@@ -56,7 +56,7 @@ However, manually visiting a website every day creates friction. The key is to a
 
 Here’s my setup:
 
-1. I configured a Personal Automation in the Shortcuts app to trigger [my custom “Exercise Of The Day” shortcut](https://shortcutomation.com/gallery/shared/exercise-of-the-day/) daily at 1:00 PM—the specific time I [hit my post-lunch slump](https://huami.ng/2025/07/30/a-midday-routine-i-do-every-day/) and need to wake my body up.
+1. I configured a Personal Automation in the Shortcuts app to trigger [my custom “Daily Exercise” shortcut](https://shortcutomation.com/daily-exercise/) daily at 1:00 PM—the specific time I [hit my post-lunch slump](https://huami.ng/2025/07/30/a-midday-routine-i-do-every-day/) and need to wake my body up.
 
 	![](../_attachments/c534c6f9d8118cbfd9a6f7d3b05626c0.PNG)
 
