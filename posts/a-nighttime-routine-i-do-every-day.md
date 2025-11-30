@@ -3,7 +3,7 @@ title: A Nighttime Routine I Do Every Day
 canonicalURL: https://shortcutomation.com/2025/6/5/a-nighttime-routine-i-do-every-day
 description:
 created: 2025-06-05T06:31:46
-modified: 2025-11-20T18:10:26
+modified: 2025-11-30T14:57:04
 draft: false
 featured: true
 tags:
@@ -39,8 +39,8 @@ That moment of awareness—seeing the actual numbers—has helped me wind down w
 Setting this up takes just a few minutes:
 
 1. Download the following two shortcuts:
-	1. [Check Daily Screen Time](https://shortcutomation.com/gallery/shared/check-daily-screen-time/)
-	2. [Go to Screen Time Summary](https://shortcutomation.com/gallery/iphone-settings/go-to-screen-time-summary/)
+	1. [Check Daily Screen Time](https://shortcutomation.com/check-daily-screen-time/)
+	2. [Go to Screen Time Summary](https://shortcutomation.com/go-to-screen-time-summary/)
 2. Install the [Scriptable app](https://scriptable.app/) for the “Check Daily Screen Time” shortcut to work properly.
 3. Open the Shortcuts app.
 4. Go to the **Automation** tab at the bottom.
