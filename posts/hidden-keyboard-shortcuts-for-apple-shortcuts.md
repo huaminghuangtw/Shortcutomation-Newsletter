@@ -3,14 +3,14 @@ title: Hidden Keyboard Shortcuts for Apple Shortcuts
 canonicalURL: https://shortcutomation.com/2025/8/12/hidden-keyboard-shortcuts-for-apple-shortcuts
 description:
 created: 2025-08-12T06:32:58
-modified: 2025-10-28T09:52:44
+modified: 2025-12-02T14:45:01
 draft: false
 featured: false
 tags:
   - Shortcutomation/dev-tip
 ---
 
-When I first started making shortcuts, [I spent hours staring at my iPhone screen](a-nighttime-routine-i-do-every-day.md).
+When I first started making shortcuts, [I spent hours staring at my iPhone screen](https://huami.ng/2025/6/5/a-nighttime-routine-i-do-every-day).
 
 Then I realized I could build Shortcuts on my MacBook too. I started _dragging actions_, _typing names_, and _using keyboard shortcuts_. This made the development process smoother and faster.
 
