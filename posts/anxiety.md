@@ -3,7 +3,7 @@ title: Anxiety
 canonicalURL: https://shortcutomation.com/2025/12/17/anxiety
 description:
 created: 2025-12-17T07:40:25
-modified: 2025-12-17T08:14:01
+modified: 2025-12-17T19:08:57
 draft: true
 featured: false
 tags:
@@ -70,8 +70,7 @@ I also programmed a message to accompany it, as the notification reads:
 >
 > _You are enough. Relax. Don’t push yourself too hard._
 
-
-![](nasa-epic-gif.gif)
+![](../_attachments/ae48546d3b51ca520d826e383578d87e.gif)
 
 ---
 
