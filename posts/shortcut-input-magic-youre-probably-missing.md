@@ -1,9 +1,9 @@
 ---
 title: Shortcut Input Magic You’re Probably Missing
-canonicalURL: https://shortcutomation.com/2025/7/29/shortcut-input-magic-youre-probably-missing
+canonicalUrl: https://shortcutomation.com/2025/7/29/shortcut-input-magic-youre-probably-missing
 description:
 created: 2025-07-29T07:58:57
-modified: 2025-11-30T08:47:34
+modified: 2025-12-21T07:24:04
 draft: false
 featured: false
 tags:

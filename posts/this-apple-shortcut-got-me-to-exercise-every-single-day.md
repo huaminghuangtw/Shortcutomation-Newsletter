@@ -1,9 +1,9 @@
 ---
 title: This Apple Shortcut Got Me to Exercise Every Single Day
-canonicalURL: https://shortcutomation.com/2025/11/19/this-apple-shortcut-got-me-to-exercise-every-single-day
+canonicalUrl: https://shortcutomation.com/2025/11/19/this-apple-shortcut-got-me-to-exercise-every-single-day
 description:
 created: 2025-11-19T06:50:07
-modified: 2025-11-30T15:21:35
+modified: 2025-12-21T07:24:04
 draft: false
 featured: false
 tags:

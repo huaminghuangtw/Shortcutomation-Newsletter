@@ -1,9 +1,9 @@
 ---
 title: A Midday Routine I Do Every Day
-canonicalURL: https://shortcutomation.com/2025/7/30/a-midday-routine-i-do-every-day
+canonicalUrl: https://shortcutomation.com/2025/7/30/a-midday-routine-i-do-every-day
 description:
 created: 2025-07-30T07:48:20
-modified: 2025-11-30T08:37:11
+modified: 2025-12-21T07:24:04
 draft: false
 featured: true
 tags:

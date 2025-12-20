@@ -1,9 +1,9 @@
 ---
 title: Hidden Keyboard Shortcuts for Apple Shortcuts
-canonicalURL: https://shortcutomation.com/2025/8/12/hidden-keyboard-shortcuts-for-apple-shortcuts
+canonicalUrl: https://shortcutomation.com/2025/8/12/hidden-keyboard-shortcuts-for-apple-shortcuts
 description:
 created: 2025-08-12T06:32:58
-modified: 2025-12-02T14:45:01
+modified: 2025-12-21T07:24:04
 draft: false
 featured: false
 tags:

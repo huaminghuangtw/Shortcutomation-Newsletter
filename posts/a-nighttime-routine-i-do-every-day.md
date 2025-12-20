@@ -1,9 +1,9 @@
 ---
 title: A Nighttime Routine I Do Every Day
-canonicalURL: https://shortcutomation.com/2025/6/5/a-nighttime-routine-i-do-every-day
+canonicalUrl: https://shortcutomation.com/2025/6/5/a-nighttime-routine-i-do-every-day
 description:
 created: 2025-06-05T06:31:46
-modified: 2025-11-30T14:57:04
+modified: 2025-12-21T07:24:04
 draft: false
 featured: true
 tags:
