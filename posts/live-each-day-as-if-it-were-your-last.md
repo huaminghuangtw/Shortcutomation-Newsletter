@@ -1,9 +1,10 @@
 ---
 title: Live Each Day as if It Were Your Last
-canonicalUrl: https://shortcutomation.com/2025/7/15/live-each-day-as-if-it-were-your-last
 description:
 created: 2025-07-15T06:10:13
-modified: 2025-12-21T07:24:04
+modified: 2025-12-21T07:41:57
+canonicalUrl: https://shortcutomation.com/2025/7/15/live-each-day-as-if-it-were-your-last
+canonicalPath: 2025/7/15/live-each-day-as-if-it-were-your-last
 draft: false
 featured: true
 tags:

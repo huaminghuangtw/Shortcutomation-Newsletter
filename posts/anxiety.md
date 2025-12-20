@@ -1,9 +1,10 @@
 ---
 title: Anxiety
-canonicalUrl: https://shortcutomation.com/2025/12/17/anxiety
 description:
 created: 2025-12-17T07:40:25
-modified: 2025-12-21T07:24:04
+modified: 2025-12-21T07:41:57
+canonicalUrl: https://shortcutomation.com/2025/12/17/anxiety
+canonicalPath: 2025/12/17/anxiety
 draft: true
 featured: false
 tags:
