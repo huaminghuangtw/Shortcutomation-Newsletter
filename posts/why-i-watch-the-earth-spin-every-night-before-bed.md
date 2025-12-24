@@ -2,13 +2,13 @@
 title: Why I Watch the Earth Spin Every Night Before Bed
 description:
 created: 2025-12-24T07:40:25
-modified: 2025-12-24T09:42:05
+modified: 2025-12-24T13:59:26
 canonicalUrl: https://shortcutomation.com/2025/12/24/why-i-watch-the-earth-spin-every-night-before-bed
 canonicalPath: 2025/12/24/why-i-watch-the-earth-spin-every-night-before-bed
 draft: false
 featured: false
 shortcutDownloadLinks:
-  - https://shortcutomation.com/brain-recharger
+  - https://shortcutomation.com/nasa-epic-gif
 tags:
   - Shortcutomation/shortcut-sharing
 ---
@@ -17,7 +17,9 @@ For years, my internal monologue was a harsh taskmaster.
 
 I was obsessed with productivity, efficiency, and squeezing value out of every single second. I convinced myself that if I wasn’t “shipping,” I wasn’t worthy. This mindset spiraled into severe anxiety and a toxic loop of negative self-talk. I was running a race with no finish line.
 
-I was stuck. The harder I pushed, the more paralyzed I became.
+I was stuck. 
+
+The harder I pushed, the more paralyzed I became.
 
 That’s when I realized: to heal, I didn’t need to speed up. I needed to do the exact opposite. I needed to slow down.
 
@@ -56,7 +58,7 @@ Step back far enough, and your toughest struggles stop feeling so big. What once
 
 I wanted a way to trigger this “Overview Effect” right from my phone.
 
-So, I built an [Apple Shortcut](https://shortcutomation.com/nasa-epic-gif/).
+So, I built an [Apple Shortcut](https://shortcutomation.com/nasa-epic-gif).
 
 It connects to the **[NASA EPIC (Earth Polychromatic Imaging Camera) API](https://epic.gsfc.nasa.gov/about/api)** to fetch the latest satellite images of Earth. The Shortcut stitches these photos together, turning them into an animated GIF of our beautiful planet in motion.
 
