@@ -2,11 +2,14 @@
 title: A Nighttime Routine I Do Every Day
 description:
 created: 2025-06-05T06:31:46
-modified: 2025-12-21T07:41:57
+modified: 2025-12-24T09:39:21
 canonicalUrl: https://shortcutomation.com/2025/6/5/a-nighttime-routine-i-do-every-day
 canonicalPath: 2025/6/5/a-nighttime-routine-i-do-every-day
 draft: false
 featured: true
+shortcutDownloadLinks:
+  - https://shortcutomation.com/check-daily-screen-time
+  - https://shortcutomation.com/go-to-screen-time-summary
 tags:
   - Shortcutomation/iphone-settings
   - Shortcutomation/screen-time
@@ -40,8 +43,8 @@ That moment of awareness—seeing the actual numbers—has helped me wind down w
 Setting this up takes just a few minutes:
 
 1. Download the following two shortcuts:
-	1. [Check Daily Screen Time](https://shortcutomation.com/check-daily-screen-time/)
-	2. [Go to Screen Time Summary](https://shortcutomation.com/go-to-screen-time-summary/)
+	- [Check Daily Screen Time](https://shortcutomation.com/check-daily-screen-time)
+	1. [Go to Screen Time Summary](https://shortcutomation.com/go-to-screen-time-summary)
 2. Install the [Scriptable app](https://scriptable.app/) for the “Check Daily Screen Time” shortcut to work properly.
 3. Open the Shortcuts app.
 4. Go to the **Automation** tab at the bottom.
@@ -68,7 +71,7 @@ This isn’t about cutting screen time overnight; it’s about noticing, recogni
 
 Take just 30 seconds today to try this simple ritual:
 
-Ask yourself: “_Did I use my phone today in a way that feels good to me?_”
+Ask yourself: Did I use my phone today in a way that feels good to me?
 
 Try installing the “Check Daily Screen Time” shortcut and start your journey toward mindful phone use.
 
