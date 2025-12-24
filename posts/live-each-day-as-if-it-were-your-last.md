@@ -2,7 +2,7 @@
 title: Live Each Day as if It Were Your Last
 description:
 created: 2025-07-15T06:10:13
-modified: 2025-12-24T09:59:43
+modified: 2025-12-24T13:55:25
 canonicalUrl: https://shortcutomation.com/2025/7/15/live-each-day-as-if-it-were-your-last
 canonicalPath: 2025/7/15/live-each-day-as-if-it-were-your-last
 draft: false
@@ -41,7 +41,7 @@ The [Death Clock](https://shortcutomation.com/death-clock/) reminds me that ever
 
 Paradoxically, it’s only when death waits at the end of the road that the unique meaning of each person’s life can fully emerge. When you embrace the inescapability of death, you know you have nothing to lose and stop worrying what other people think about you. Life becomes less about proving yourself and more about giving away your gift to something greater than you. You view life as a service.
 
-[Mitch Albom](https://www.google.com/search?q=Mitch+Albom) once said in _[Tuesdays With Morrie](https://www.google.com/search?q=Tuesdays+With+Morrie)_:
+As [Mitch Albom](https://www.google.com/search?q=Mitch+Albom) wrote in _[Tuesdays With Morrie](https://www.google.com/search?q=Tuesdays+With+Morrie)_:
 
 > _The truth is, once you learn how to die, you learn how to live._
 
