@@ -2,7 +2,7 @@
 title: Shortcut Input Magic You’re Probably Missing
 description:
 created: 2025-07-29T07:58:57
-modified: 2025-12-21T07:41:57
+modified: 2025-12-24T10:01:02
 canonicalUrl: https://shortcutomation.com/2025/7/29/shortcut-input-magic-youre-probably-missing
 canonicalPath: 2025/7/29/shortcut-input-magic-youre-probably-missing
 draft: false
@@ -40,9 +40,5 @@ Tap the “Continue” bubble, you will see the following three options:
 	* Useful when users need to pre-copy text before running the shortcut.
 
 By selecting the right input option, your shortcuts become intuitive, user-friendly, and able to manage [edge cases](https://en.wikipedia.org/wiki/Edge_case) more effectively.
-
----
-
-💡 Want more tips for building shortcuts? Follow this page: [huami.ng/shortcuts-dev-tip](https://huami.ng/shortcuts-dev-tip)
 
 [^1]: Leave the “Response” field empty if you don’t want to display anything.
