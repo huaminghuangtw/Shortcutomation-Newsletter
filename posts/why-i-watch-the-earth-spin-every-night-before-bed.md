@@ -2,11 +2,13 @@
 title: Why I Watch the Earth Spin Every Night Before Bed
 description:
 created: 2025-12-24T07:40:25
-modified: 2025-12-24T09:11:34
+modified: 2025-12-24T09:42:05
 canonicalUrl: https://shortcutomation.com/2025/12/24/why-i-watch-the-earth-spin-every-night-before-bed
 canonicalPath: 2025/12/24/why-i-watch-the-earth-spin-every-night-before-bed
 draft: false
 featured: false
+shortcutDownloadLinks:
+  - https://shortcutomation.com/brain-recharger
 tags:
   - Shortcutomation/shortcut-sharing
 ---
@@ -70,7 +72,7 @@ Thanks to [Personal Automation](https://support.apple.com/guide/shortcuts/intro-
 
 It’s a visual reminder that, 99% of owhat I’m stressing about is tiny compared with the scale of the Earth.
 
-# The Most Important Conversation
+# The Most Important Conversation in Life
 
 The Shortcut is just a tool. The real work happens in the conversation you have with yourself when the notification pops up.
 
