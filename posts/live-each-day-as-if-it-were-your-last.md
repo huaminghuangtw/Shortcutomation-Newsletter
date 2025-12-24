@@ -2,11 +2,13 @@
 title: Live Each Day as if It Were Your Last
 description:
 created: 2025-07-15T06:10:13
-modified: 2025-12-21T07:41:57
+modified: 2025-12-24T09:59:43
 canonicalUrl: https://shortcutomation.com/2025/7/15/live-each-day-as-if-it-were-your-last
 canonicalPath: 2025/7/15/live-each-day-as-if-it-were-your-last
 draft: false
 featured: true
+shortcutDownloadLinks:
+  - https://shortcutomation.com/death-clock
 tags:
   - Shortcutomation/lifeos-toolkits
   - Shortcutomation/shortcut-sharing
@@ -22,7 +24,7 @@ Ancient wisdom always teaches us life principles and philosophies. They stood th
 
 Death is the ultimate equalizer. Despite our differences in appearance, cultures, and beliefs, we are all going to die. Death is the destination we all share. No one has ever escaped it.
 
-This universal truth inspired me to build a **[Death Clock](https://shortcutomation.com/death-clock/)**. It calculates two metrics:
+This universal truth inspired me to build a **[Death Clock](https://shortcutomation.com/death-clock)**. It calculates two metrics:
 
 1. How old I am.
 2. What percentage of my life is (probably) behind me.
@@ -39,18 +41,20 @@ The [Death Clock](https://shortcutomation.com/death-clock/) reminds me that ever
 
 Paradoxically, it’s only when death waits at the end of the road that the unique meaning of each person’s life can fully emerge. When you embrace the inescapability of death, you know you have nothing to lose and stop worrying what other people think about you. Life becomes less about proving yourself and more about giving away your gift to something greater than you. You view life as a service.
 
-Mitch Albom once said in _Tuesdays With Morrie_:
+[Mitch Albom](https://www.google.com/search?q=Mitch+Albom) once said in _[Tuesdays With Morrie](https://www.google.com/search?q=Tuesdays+With+Morrie)_:
 
-> _“The truth is, once you learn how to die, you learn how to live.”_
+> _The truth is, once you learn how to die, you learn how to live._
 
 I believe that _learning how to die_ means being prepared for it—knowing that it’s inevitably coming. Once you accept that death is not the opposite of life, but rather an essential part of it, you begin to notice and appreciate the little small things in your day, welcoming whatever comes your way.
 
 So, live each day as if it were your last, because someday you’ll certainly be right. Every time you do something that is one less time you could do it. Cherish every moment of your life like it is your last, because it very likely might be. Every single thing you do today is something your ninety-year-old self will wish they could come back and do. The good old days are happening right now.
 
-Make the rest of your life the best of your life. Don’t live the same year 75 times and call it a life. Don’t be a “Living Dead.” Never _die_ before you are _dead_. One day, your life will flash before your eyes. Make sure it’s worth watching.
+Make the rest of your life the best of your life. Don’t live the same year 75 times and call it a life. Don’t be a “Living Dead.” Never _die_ before you are _dead_.
+
+One day, your life will flash before your eyes. Make sure it’s worth watching.
 
 In the end, it’s not the years in your life that count. It’s the life in your years.
 
 [Make each day count.](https://youtu.be/JYdCltjvrxg)
 
-[^1]: Watch [Steve Jobs' legendary 2005 Stanford Commencement Address on death](https://youtu.be/UF8uR6Z6KLc?t=544) (and the full speech). Highly recommended.
+[^1]: Watch [Steve Jobs’ legendary 2005 Stanford Commencement Address on death](https://youtu.be/UF8uR6Z6KLc?t=544) (and the full speech). Highly recommended.
