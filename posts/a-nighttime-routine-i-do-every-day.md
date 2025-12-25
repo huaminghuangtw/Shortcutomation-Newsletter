@@ -2,7 +2,7 @@
 title: A Nighttime Routine I Do Every Day
 description:
 created: 2025-06-05T06:31:46
-modified: 2025-12-24T09:39:21
+modified: 2025-12-24T17:18:51
 canonicalUrl: https://shortcutomation.com/2025/6/5/a-nighttime-routine-i-do-every-day
 canonicalPath: 2025/6/5/a-nighttime-routine-i-do-every-day
 draft: false
@@ -43,7 +43,7 @@ That moment of awareness—seeing the actual numbers—has helped me wind down w
 Setting this up takes just a few minutes:
 
 1. Download the following two shortcuts:
-	- [Check Daily Screen Time](https://shortcutomation.com/check-daily-screen-time)
+	* [Check Daily Screen Time](https://shortcutomation.com/check-daily-screen-time)
 	1. [Go to Screen Time Summary](https://shortcutomation.com/go-to-screen-time-summary)
 2. Install the [Scriptable app](https://scriptable.app/) for the “Check Daily Screen Time” shortcut to work properly.
 3. Open the Shortcuts app.
