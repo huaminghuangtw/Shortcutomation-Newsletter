@@ -2,7 +2,7 @@
 title: A Midday Routine I Do Every Day
 description:
 created: 2025-07-30T07:48:20
-modified: 2025-12-24T09:39:58
+modified: 2025-12-24T17:18:51
 canonicalUrl: https://shortcutomation.com/2025/7/30/a-midday-routine-i-do-every-day
 canonicalPath: 2025/7/30/a-midday-routine-i-do-every-day
 draft: false
@@ -13,7 +13,6 @@ tags:
   - Shortcutomation/lifeos-toolkits
   - Shortcutomation/shortcut-sharing
 ---
-
 
 > _“Rest until you feel like playing, then play until you feel like resting.” — Martha Beck_
 
