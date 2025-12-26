@@ -2,7 +2,7 @@
 title: Why I Watch the Earth Spin Every Night Before Bed
 description:
 created: 2025-12-24T07:40:25
-modified: 2025-12-25T15:27:46
+modified: 2025-12-26T06:00:16
 canonicalUrl: https://shortcutomation.com/2025/12/24/why-i-watch-the-earth-spin-every-night-before-bed
 canonicalPath: 2025/12/24/why-i-watch-the-earth-spin-every-night-before-bed
 draft: false
@@ -111,6 +111,6 @@ If you think you have it tough, look at your life from 100,000 miles away.
 
 When in doubt, zoom out.
 
-![](Pasted%20image%2020251225141927.png)
+![](../_attachments/55d1de78da4c22a7ad69504a9f8ae553.png)
 
 [^1]: I borrowed this quote from one of my favorite Taiwanese creators, [Shosho Chang (張修修)](https://shosho.tw/).
