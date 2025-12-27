@@ -2,7 +2,7 @@
 title: Why I Watch the Earth Spin Every Night Before Bed
 description:
 created: 2025-12-24T07:40:25
-modified: 2025-12-26T06:00:16
+modified: 2025-12-27T08:11:45
 canonicalUrl: https://shortcutomation.com/2025/12/24/why-i-watch-the-earth-spin-every-night-before-bed
 canonicalPath: 2025/12/24/why-i-watch-the-earth-spin-every-night-before-bed
 draft: false
@@ -13,7 +13,7 @@ tags:
   - Shortcutomation/shortcut-sharing
 ---
 
-For years, my internal monologue was a harsh taskmaster.
+For years, my internal monologue was a harsh taskmaster. I was suffering from the high pressure I put on myself, the weight of my own relentless expectations.
 
 I was obsessed with productivity, efficiency, and squeezing value out of every single second. I convinced myself that if I wasn’t “shipping,” I wasn’t worthy. This mindset spiraled into severe anxiety and a toxic loop of negative self-talk. I was running a race with no finish line.
 
@@ -105,7 +105,7 @@ So, the next time you catch yourself criticizing for not being great—pause.
 
 Ask yourself: Can I be okay with being good enough? Can I celebrate the small wins instead?
 
-Can I be, as Alan Watts suggested, “always sincere, but never serious”?
+Can I be, as Alan Watts suggested, “_always sincere, but never serious_”?
 
 If you think you have it tough, look at your life from 100,000 miles away.
 
