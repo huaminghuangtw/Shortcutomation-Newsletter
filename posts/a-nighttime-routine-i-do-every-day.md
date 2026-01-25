@@ -2,7 +2,7 @@
 title: A Nighttime Routine I Do Every Day
 description:
 created: 2025-06-05T06:31:46
-modified: 2025-12-24T17:18:51
+modified: 2026-01-25T16:14:18
 canonicalUrl: https://shortcutomation.com/2025/6/5/a-nighttime-routine-i-do-every-day
 canonicalPath: 2025/6/5/a-nighttime-routine-i-do-every-day
 draft: false
@@ -45,19 +45,19 @@ Setting this up takes just a few minutes:
 1. Download the following two shortcuts:
 	* [Check Daily Screen Time](https://shortcutomation.com/check-daily-screen-time)
 	1. [Go to Screen Time Summary](https://shortcutomation.com/go-to-screen-time-summary)
-2. Install the [Scriptable app](https://scriptable.app/) for the “Check Daily Screen Time” shortcut to work properly.
+2. Install the [Scriptable app](https://scriptable.app/) for the “Check Daily Screen Time” shortcut to work properly.
 3. Open the Shortcuts app.
-4. Go to the **Automation** tab at the bottom.
+4. Go to the **Automation** tab at the bottom.
 5. Create a new **Personal Automation**:
-	1. Tap the `+` button in the top-right corner.
-	2. Choose **Time of Day** (e.g. 9:00 PM).
-	3. Tap **Next** to proceed.
+	1. Tap the `+` button in the top-right corner.
+	2. Choose **Time of Day** (e.g. 9:00 PM).
+	3. Tap **Next** to proceed.
 	4. Add the **“Run Shortcut”** action.
 	5. Select the “Check Daily Screen Time” shortcut.
 
 In this age of infinite information, almost everything is competing for your attention. It’s never been easier to slip into endless scrolling.
 
-We must be more intentional with our phone use. That’s exactly what [Shortcutomation](https://shortcutomation.com/) is all about: **helping people take back their [time—the most valuable asset on the planet.](https://paulgraham.com/vb.html)**
+We must be more intentional with our phone use. That’s exactly what [Shortcutomation](https://shortcutomation.com/) is all about: **helping people take back their [time—the most valuable asset on the planet.](https://paulgraham.com/vb.html)**
 
 If you do the math, doomscrolling just one hour a day on your phone adds up to 22 full waking days a year—that’s 22 straight days spent staring at a screen, time you could reclaim for something more meaningful to build the life you want. [^4]
 
@@ -71,7 +71,7 @@ This isn’t about cutting screen time overnight; it’s about noticing, recogni
 
 Take just 30 seconds today to try this simple ritual:
 
-Ask yourself: Did I use my phone today in a way that feels good to me?
+Ask yourself: Did I use my phone today in a way that feels good to me?
 
 Try installing the “Check Daily Screen Time” shortcut and start your journey toward mindful phone use.
 
