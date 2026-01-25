@@ -2,7 +2,7 @@
 title: Why I Watch the Earth Spin Every Night Before Bed
 description:
 created: 2025-12-24T07:40:25
-modified: 2025-12-27T08:11:45
+modified: 2026-01-25T16:14:18
 canonicalUrl: https://shortcutomation.com/2025/12/24/why-i-watch-the-earth-spin-every-night-before-bed
 canonicalPath: 2025/12/24/why-i-watch-the-earth-spin-every-night-before-bed
 draft: false
@@ -35,7 +35,7 @@ By slowing down and creating “[psychological distance](https://www.google.com/
 
 > _I do believe that 99% of effort in life is ‘wasted’. If you look back at all the term papers you wrote, all the classes you took, all the people you dated, and all the things you stressed about. 99% of them didn’t matter; they were inconsequential; and there were a few 1% decisions that did matter._
 
-When you’re deep in anxiety, every choice feels like black or white. But when you zoom out, you see that most things make no difference.
+When you’re deep in anxiety, every choice feels like black or white. But when you zoom out, you see that most things make no difference.
 
 # The Overview Effect
 
@@ -46,11 +46,11 @@ When you’re deep in anxiety, every choice feels like black or white. But when 
 	</figcaption>
 </figure>
 
-There is no greater example of “zooming out” than what astronauts call **[The Overview Effect](https://en.wikipedia.org/wiki/Overview_effect)**.
+There is no greater example of “zooming out” than what astronauts call **[The Overview Effect](https://en.wikipedia.org/wiki/Overview_effect)**.
 
 When astronauts view Earth from space, many describe a profound cognitive shift: our planet appears as a fragile blue marble in darkness. Borders disappear, divisions dissolve, and the conflicts that once felt enormous shrink to near insignificance.
 
-As the legendary astronomer [Carl Sagan](https://www.google.com/search?q=Carl+Sagan) famously said in his 1994 _[Pale Blue Dot](https://huami.ng/pale-blue-dot)_ reflection, our planet is just a “mote of dust suspended in a sunbeam.”
+As the legendary astronomer [Carl Sagan](https://www.google.com/search?q=Carl+Sagan) famously said in his 1994 _[Pale Blue Dot](https://huami.ng/pale-blue-dot)_ reflection, our planet is just a “mote of dust suspended in a sunbeam.”
 
 Step back far enough, and your toughest struggles stop feeling so big. What once felt overwhelming suddenly feels manageable.
 
@@ -67,7 +67,7 @@ I wanted a way to trigger this “Overview Effect” right from my phone.
 
 So, I built an [Apple Shortcut](https://shortcutomation.com/nasa-epic-gif).
 
-It connects to the **[NASA EPIC (Earth Polychromatic Imaging Camera) API](https://epic.gsfc.nasa.gov/about/api)** to fetch the latest satellite images of Earth. The Shortcut stitches these photos together, turning them into an animated GIF of our beautiful planet in motion.
+It connects to the **[NASA EPIC (Earth Polychromatic Imaging Camera) API](https://epic.gsfc.nasa.gov/about/api)** to fetch the latest satellite images of Earth. The Shortcut stitches these photos together, turning them into an animated GIF of our beautiful planet in motion.
 
 I also added a message that appears with the notification:
 
