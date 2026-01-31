@@ -2,7 +2,7 @@
 title: Why I Watch the Earth Spin Every Night Before Bed
 description:
 created: 2025-12-24T07:40:25
-modified: 2026-01-25T16:14:18
+modified: 2026-01-31T14:20:08
 canonicalUrl: https://shortcutomation.com/2025/12/24/why-i-watch-the-earth-spin-every-night-before-bed
 canonicalPath: 2025/12/24/why-i-watch-the-earth-spin-every-night-before-bed
 draft: false
@@ -39,12 +39,7 @@ When you’re deep in anxiety, every choice feels like black or white. But when 
 
 # The Overview Effect
 
-<figure>
-	<img src="https://upload.wikimedia.org/wikipedia/commons/5/57/NASA-Apollo8-Dec24-Earthrise-b.jpg">
-	<figcaption>
-		<sub><em>Source: <a href="https://en.wikipedia.org/wiki/Earthrise">Wikipedia</a></em></sub>
-	</figcaption>
-</figure>
+![](https://upload.wikimedia.org/wikipedia/commons/5/57/NASA-Apollo8-Dec24-Earthrise-b.jpg "Source: Wikipedia")
 
 There is no greater example of “zooming out” than what astronauts call **[The Overview Effect](https://en.wikipedia.org/wiki/Overview_effect)**.
 
@@ -54,12 +49,7 @@ As the legendary astronomer [Carl Sagan](https://www.google.com/search?q=Carl+Sa
 
 Step back far enough, and your toughest struggles stop feeling so big. What once felt overwhelming suddenly feels manageable.
 
-<figure>
-	<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Pale_Blue_Dot.png">
-	<figcaption>
-	<sub><em>Source: <a href="https://en.wikipedia.org/wiki/Pale_Blue_Dot">Wikipedia</a></em></sub>
-	</figcaption>
-</figure>
+![](https://upload.wikimedia.org/wikipedia/commons/7/73/Pale_Blue_Dot.png "Source: Wikipedia")
 
 # The Apple Shortcut
 
