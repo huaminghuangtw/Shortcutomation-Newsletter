@@ -2,7 +2,7 @@
 title: A Nighttime Routine I Do Every Day
 description:
 created: 2025-06-05T06:31:46
-modified: 2026-02-01T17:39:25
+modified: 2026-02-05T07:54:47
 canonicalUrl: https://shortcutomation.com/2025/6/5/a-nighttime-routine-i-do-every-day
 canonicalPath: 2025/6/5/a-nighttime-routine-i-do-every-day
 draft: false
@@ -16,7 +16,7 @@ tags:
   - Shortcutomation/shortcut-sharing
 ---
 
-> _“The price of anything is the amount of life you exchange for it.” — Henry David Thoreau_
+> “The price of anything is the amount of life you exchange for it.” — Henry David Thoreau
 
 Over the past 12 months, I’ve been training myself to become more conscious of my phone use.
 

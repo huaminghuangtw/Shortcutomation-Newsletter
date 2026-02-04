@@ -2,7 +2,7 @@
 title: Live Each Day as if It Were Your Last
 description:
 created: 2025-07-15T06:10:13
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:54:47
 canonicalUrl: https://shortcutomation.com/2025/7/15/live-each-day-as-if-it-were-your-last
 canonicalPath: 2025/7/15/live-each-day-as-if-it-were-your-last
 draft: false
@@ -14,7 +14,7 @@ tags:
   - Shortcutomation/shortcut-sharing
 ---
 
-> _“Every man has two lives, and the second starts when he realizes he has just one.” — Confucius_
+> “Every man has two lives, and the second starts when he realizes he has just one.” — Confucius
 
 What if you could visualize, every day, how much of your life has already passed?
 
@@ -43,7 +43,7 @@ Paradoxically, it’s only when death waits at the end of the road that the uniq
 
 As [Mitch Albom](https://www.google.com/search?q=Mitch+Albom) wrote in _[Tuesdays With Morrie](https://www.google.com/search?q=Tuesdays+With+Morrie)_:
 
-> _The truth is, once you learn how to die, you learn how to live._
+> The truth is, once you learn how to die, you learn how to live.
 
 I believe that _learning how to die_ means being prepared for it—knowing that it’s inevitably coming. Once you accept that death is not the opposite of life, but rather an essential part of it, you begin to notice and appreciate the little small things in your day, welcoming whatever comes your way.
 

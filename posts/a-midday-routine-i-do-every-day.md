@@ -2,7 +2,7 @@
 title: A Midday Routine I Do Every Day
 description:
 created: 2025-07-30T07:48:20
-modified: 2025-12-24T17:18:51
+modified: 2026-02-05T07:54:47
 canonicalUrl: https://shortcutomation.com/2025/7/30/a-midday-routine-i-do-every-day
 canonicalPath: 2025/7/30/a-midday-routine-i-do-every-day
 draft: false
@@ -14,7 +14,7 @@ tags:
   - Shortcutomation/shortcut-sharing
 ---
 
-> _“Rest until you feel like playing, then play until you feel like resting.” — Martha Beck_
+> “Rest until you feel like playing, then play until you feel like resting.” — Martha Beck
 
 We all experienced the “post-lunch dip”—that familiar drop in energy after midday.
 
@@ -30,7 +30,7 @@ My favorite is [Non-Sleep Deep Rest (NSDR), coined by Dr. Andrew Huberman](https
 
 To make things easier, I built the [“Brain Recharger”](https://shortcutomation.com/brain-recharger) shortcut. It covers the essentials of my reset ritual—connecting headphones, adjusting the volume, locking the screen, and playing [NSDR scripts](https://www.youtube.com/playlist?list=PLPNW_gerXa4MFy52YhdZJYhOk11KdfG9G) [^3]—providing a quick energy boost for the rest of the day.
 
-> _“The right way to work is like a lion. We’re not meant to graze all day. We’re meant to hunt like lions. So, as a modern knowledge worker, an intellectual athlete, you want to function like an athlete. This means you train hard, then you sprint, then you rest, then you reassess. You get your feedback loop, you train some more, then you sprint again, then you rest, then you reassess.” — Naval Ravikant_
+> “The right way to work is like a lion. We’re not meant to graze all day. We’re meant to hunt like lions. So, as a modern knowledge worker, an intellectual athlete, you want to function like an athlete. This means you train hard, then you sprint, then you rest, then you reassess. You get your feedback loop, you train some more, then you sprint again, then you rest, then you reassess.” — Naval Ravikant
 
 I used to struggle with giving myself permission to take breaks. Whenever I did, I felt guilty—often sneaking in bits of work rather than allowing myself to fully recharge. I was constantly in hustle mode—chained to my desk for hours and caught in The Busy Trap, a treadmill that led nowhere.
 

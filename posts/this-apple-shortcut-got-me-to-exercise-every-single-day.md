@@ -2,7 +2,7 @@
 title: This Apple Shortcut Got Me to Exercise Every Single Day
 description:
 created: 2025-11-19T06:50:07
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:54:47
 canonicalUrl: https://shortcutomation.com/2025/11/19/this-apple-shortcut-got-me-to-exercise-every-single-day
 canonicalPath: 2025/11/19/this-apple-shortcut-got-me-to-exercise-every-single-day
 draft: false
@@ -13,7 +13,7 @@ tags:
   - Shortcutomation/shortcut-sharing
 ---
 
-> _“My number one priority in life, above my happiness, above my family, above my work, is my own health. It starts with my physical health. Because my physical health became my number one priority, then I could never say I don’t have time. […] I do not start my day until I’ve worked out. I don’t care if the world is imploding and melting down, it can wait another 30 minutes until I’m done working out.” — Naval Ravikant_
+> “My number one priority in life, above my happiness, above my family, above my work, is my own health. It starts with my physical health. Because my physical health became my number one priority, then I could never say I don’t have time. […] I do not start my day until I’ve worked out. I don’t care if the world is imploding and melting down, it can wait another 30 minutes until I’m done working out.” — Naval Ravikant
 
 We all know we should exercise more. But often, the barrier to entry is just too high. We think we need to change into gym clothes, drive somewhere, and carve out an entire hour.
 

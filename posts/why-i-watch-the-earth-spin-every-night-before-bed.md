@@ -2,7 +2,7 @@
 title: Why I Watch the Earth Spin Every Night Before Bed
 description:
 created: 2025-12-24T07:40:25
-modified: 2026-01-31T14:20:08
+modified: 2026-02-05T07:54:47
 canonicalUrl: https://shortcutomation.com/2025/12/24/why-i-watch-the-earth-spin-every-night-before-bed
 canonicalPath: 2025/12/24/why-i-watch-the-earth-spin-every-night-before-bed
 draft: false
@@ -33,7 +33,7 @@ By slowing down and creating “[psychological distance](https://www.google.com/
 
 [Naval Ravikant](https://www.google.com/search?q=Naval+Ravikant) [once said](https://www.youtube.com/shorts/K1IG_aMmi2k):
 
-> _I do believe that 99% of effort in life is ‘wasted’. If you look back at all the term papers you wrote, all the classes you took, all the people you dated, and all the things you stressed about. 99% of them didn’t matter; they were inconsequential; and there were a few 1% decisions that did matter._
+> I do believe that 99% of effort in life is ‘wasted’. If you look back at all the term papers you wrote, all the classes you took, all the people you dated, and all the things you stressed about. 99% of them didn’t matter; they were inconsequential; and there were a few 1% decisions that did matter.
 
 When you’re deep in anxiety, every choice feels like black or white. But when you zoom out, you see that most things make no difference.
 
@@ -63,7 +63,7 @@ I also added a message that appears with the notification:
 
 > “你很棒，放輕鬆，別太逼自己了。” [^1]
 >
-> _You are enough. Relax. Don’t push yourself too hard._
+> You are enough. Relax. Don’t push yourself too hard.
 
 ![](../_attachments/ae48546d3b51ca520d826e383578d87e.gif)
 
@@ -77,7 +77,7 @@ The Shortcut is just a tool. The real work happens in the conversation you have 
 
 [As David Goggins said](https://www.facebook.com/watch/?v=243100336350252):
 
-> _The most important conversations you’ll ever have are the ones you’ll have with yourself._
+> The most important conversations you’ll ever have are the ones you’ll have with yourself.
 
 The voice in your head is your permanent roommate. You wake up with it, carry it through the day, and go to bed with it. Eventually, you live out what it says, good or bad.
 
@@ -85,7 +85,7 @@ For too long, my inner dialogue was unforgiving. But I’ve learned the hard way
 
 We need to replace self-criticism with self-compassion. British philosopher [Alan Watts](https://www.google.com/search?q=Alan+Watts) captured this balance perfectly:
 
-> _I am always sincere, but never serious._
+> I am always sincere, but never serious.
 
 To be sincere is to act with your whole heart; to be serious is to treat every outcome like a life-or-death crisis. When we lose that “seriousness,” we stop being paralyzed by the fear of failure.
 
