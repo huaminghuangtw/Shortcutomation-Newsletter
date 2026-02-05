@@ -2,7 +2,7 @@
 title: Live Each Day as if It Were Your Last
 description:
 created: 2025-07-15T06:10:13
-modified: 2026-02-05T07:54:47
+modified: 2026-02-05T09:24:24
 canonicalUrl: https://shortcutomation.com/2025/7/15/live-each-day-as-if-it-were-your-last
 canonicalPath: 2025/7/15/live-each-day-as-if-it-were-your-last
 draft: false
@@ -37,7 +37,7 @@ I used to put off small joys in _this moment, [this pixel](https://waitbutwhy.co
 
 The [Death Clock](https://shortcutomation.com/death-clock/) reminds me that every single second I’m dying. It internalizes the certainty of death, rewiring my brain to prioritize what I might [regret on my deathbed](https://bronnieware.com/regrets-of-the-dying/). **It’s not the number that is the most important, but seeing the number changing day after day that makes the difference.**
 
-> _“Almost everything…just fall[s] away in the face of death, leaving only what is truly important…Remembering that you are going to die is the best way I know to avoid the trap of thinking: you have something to lose. You are already naked. There is no reason not to follow your heart.” — Steve Jobs_ [^1]
+> “Almost everything…just fall[s] away in the face of death, leaving only what is truly important…Remembering that you are going to die is the best way I know to avoid the trap of thinking: you have something to lose. You are already naked. There is no reason not to follow your heart.” — Steve Jobs [^1]
 
 Paradoxically, it’s only when death waits at the end of the road that the unique meaning of each person’s life can fully emerge. When you embrace the inescapability of death, you know you have nothing to lose and stop worrying what other people think about you. Life becomes less about proving yourself and more about giving away your gift to something greater than you. You view life as a service.
 
