@@ -2,7 +2,7 @@
 title: This Apple Shortcut Got Me to Exercise Every Single Day
 description:
 created: 2025-11-19T06:50:07
-modified: 2026-02-05T07:54:47
+modified: 2026-02-06T10:43:51
 canonicalUrl: https://shortcutomation.com/2025/11/19/this-apple-shortcut-got-me-to-exercise-every-single-day
 canonicalPath: 2025/11/19/this-apple-shortcut-got-me-to-exercise-every-single-day
 draft: false
@@ -61,15 +61,15 @@ Here’s my setup:
 
 1. I configured a Personal Automation in the Shortcuts app to trigger [my custom “Daily Exercise” shortcut](https://shortcutomation.com/daily-exercise) daily at 1:00 PM—the specific time I [hit my post-lunch slump](https://huami.ng/2025/07/30/a-midday-routine-i-do-every-day/) and need to wake my body up.
 
-	![](../_attachments/c534c6f9d8118cbfd9a6f7d3b05626c0.PNG)
+	![](_attachments/c534c6f9d8118cbfd9a6f7d3b05626c0.PNG)
 
 2. Each day at 1:00 PM sharp, my phone buzzes. I don’t even have to unlock it. The notification appears right on my Lock Screen, telling me exactly what the “snack” is. [^2]
 
-	![](../_attachments/21c1c47d98c5333045192ad0b1e458a9.png)
+	![](_attachments/21c1c47d98c5333045192ad0b1e458a9.png)
 
 3. Here is the most important part. I don’t need to open a browser or an app. **I simply long-press the notification.** Upon expansion, the notification presents a GIF of the exercise with the target rep count.
 
-	![](../_attachments/2d28399fa18c3b51fd2258e7f7b3b44b.gif)
+	![](_attachments/2d28399fa18c3b51fd2258e7f7b3b44b.gif)
 
 This setup works because it respects my laziness; on days I have zero energy, I can still do 20 squats.
 
