@@ -2,7 +2,7 @@
 title: Live Each Day as if It Were Your Last
 description:
 created: 2025-07-15T06:10:13
-modified: 2026-02-05T09:24:24
+modified: 2026-02-06T10:43:51
 canonicalUrl: https://shortcutomation.com/2025/7/15/live-each-day-as-if-it-were-your-last
 canonicalPath: 2025/7/15/live-each-day-as-if-it-were-your-last
 draft: false
@@ -31,7 +31,7 @@ This universal truth inspired me to build a **[Death Clock](https://shortcutomat
 
 Every morning, my Lock Screen greets me with these numbers, thanks to a [Personal Automation](https://support.apple.com/guide/shortcuts/intro-to-personal-automation-apd690170742/ios).
 
-![](../_attachments/4b4ce1d10ae09059857f00b70a8315ff.jpg)
+![](_attachments/4b4ce1d10ae09059857f00b70a8315ff.jpg)
 
 I used to put off small joys in _this moment, [this pixel](https://waitbutwhy.com/2013/11/life-is-picture-but-you-live-in-pixel.html), this now_—[calling a loved one](https://shortcutomation.com/call-people-i-love/), taking a walk, savoring a meal—thinking there would always be more time later. But _later_ often means _never_. [It’s later than you think.](https://www.youtube.com/watch?v=nFxjnUPRwx4)
 
