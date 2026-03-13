@@ -1,8 +1,8 @@
 ---
 title: Why I Watch the Earth Spin Every Night Before Bed
 description:
-created: 2025-12-24T07:40:25
-modified: 2026-02-06T10:43:51
+created: 2025-12-24T00:00:00
+modified: 2026-03-14T02:03:25
 canonicalUrl: https://shortcutomation.com/2025/12/24/why-i-watch-the-earth-spin-every-night-before-bed
 canonicalPath: 2025/12/24/why-i-watch-the-earth-spin-every-night-before-bed
 draft: false

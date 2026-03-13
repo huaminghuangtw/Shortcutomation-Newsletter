@@ -1,8 +1,8 @@
 ---
 title: A Midday Routine I Do Every Day
 description:
-created: 2025-07-30T07:48:20
-modified: 2026-02-05T07:54:47
+created: 2025-07-30T00:00:00
+modified: 2026-03-14T02:03:85
 canonicalUrl: https://shortcutomation.com/2025/7/30/a-midday-routine-i-do-every-day
 canonicalPath: 2025/7/30/a-midday-routine-i-do-every-day
 draft: false
@@ -22,7 +22,7 @@ One of the most effective ways to overcome this slump is by taking a nap.
 
 Personally, I love taking naps (or [“Siesta”](https://en.wikipedia.org/wiki/Siesta)). They replenish my body battery and help me refocus after [intense deep work sessions](https://huami.ng/deep-work-machine/) in the morning.
 
-The ideal nap time is when [adenosine](https://www.google.com/search?q=Adenosine) [^1] levels peak—usually in the _early afternoon (1–3 PM)_ or _7–8 hours after waking_.
+The ideal nap time is when [adenosine](https://www.google.com/search?q=Adenosine) [^1] levels peak—usually in the _early afternoon (1—3 PM)_ or _7—8 hours after waking_.
 
 You can enhance your nap with techniques like [“Nappuccino”](https://en.wikipedia.org/wiki/Power_nap#Stimulant_nap) or guided breathwork / body scan exercises.
 
