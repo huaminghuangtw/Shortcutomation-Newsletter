@@ -1,8 +1,8 @@
 ---
 title: Live Each Day as if It Were Your Last
 description:
-created: 2025-07-15T00:00:00
-modified: 2026-03-14T02:03:09
+created: 2025-07-15
+modified: 2026-03-14
 canonicalUrl: https://shortcutomation.com/2025/7/15/live-each-day-as-if-it-were-your-last
 canonicalPath: 2025/7/15/live-each-day-as-if-it-were-your-last
 draft: false

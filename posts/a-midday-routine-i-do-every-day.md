@@ -1,8 +1,8 @@
 ---
 title: A Midday Routine I Do Every Day
 description:
-created: 2025-07-30T00:00:00
-modified: 2026-03-14T02:03:85
+created: 2025-07-30
+modified: 2026-03-14
 canonicalUrl: https://shortcutomation.com/2025/7/30/a-midday-routine-i-do-every-day
 canonicalPath: 2025/7/30/a-midday-routine-i-do-every-day
 draft: false

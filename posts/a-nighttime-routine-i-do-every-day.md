@@ -1,8 +1,8 @@
 ---
 title: A Nighttime Routine I Do Every Day
 description:
-created: 2025-06-05T00:00:00
-modified: 2026-03-14T02:03:91
+created: 2025-06-05
+modified: 2026-03-14
 canonicalUrl: https://shortcutomation.com/2025/6/5/a-nighttime-routine-i-do-every-day
 canonicalPath: 2025/6/5/a-nighttime-routine-i-do-every-day
 draft: false
