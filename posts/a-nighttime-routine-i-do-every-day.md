@@ -2,7 +2,7 @@
 title: A Nighttime Routine I Do Every Day
 description:
 created: 2025-06-05
-modified: 2026-03-14
+modified: 2026-03-16
 canonicalUrl: https://shortcutomation.com/2025/6/5/a-nighttime-routine-i-do-every-day
 canonicalPath: 2025/6/5/a-nighttime-routine-i-do-every-day
 draft: false
@@ -74,6 +74,6 @@ Ask yourself: Did I use my phone today in a way that feels good to me?
 Try installing the “Check Daily Screen Time” shortcut and start your journey toward mindful phone use.
 
 [^1]: You can also [add a Screen Time widget to your Home Screen](https://support.apple.com/guide/iphone/add-edit-and-remove-widgets-iphb8f1bf206/18.0/ios/18.0#iphefb49b7e0). The widget will display information from your [Screen Time summary](https://support.apple.com/guide/iphone/get-started-with-screen-time-iphbfa595995). However, I found it’s a distraction for me as it constantly reminds me of how much time I’m spending on my phone, which sometimes makes me feel stressed or guilty instead of motivated to improve.
-[^2]: If you want to navigate manually to this page, go to **Settings** \> **Screen Time \> See All App \& Website Activities**.
+[^2]: If you want to navigate manually to this page, go to **Settings** > **Screen Time** > **See All App & Website Activities**.
 [^3]: You can also check a _weekly summary_ and see _which apps are sending you the most notifications_.
 [^4]: I assume 16 waking hours per day instead of 24 because I believe it’s a more accurate representation of day-to-day life. Hence the calculation: 365 days × 1 hour/day ÷ 16 waking hours per day ≈ 22 days.
