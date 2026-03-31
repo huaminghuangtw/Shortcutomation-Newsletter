@@ -45,7 +45,7 @@ There is no greater example of “zooming out” than what astronauts call **[Th
 
 When astronauts view Earth from space, many describe a profound cognitive shift: our planet appears as a fragile blue marble in darkness. Borders disappear, divisions dissolve, and the conflicts that once felt enormous shrink to near insignificance.
 
-As the legendary astronomer [Carl Sagan](https://www.google.com/search?q=Carl+Sagan) famously said in his 1994 _[Pale Blue Dot](https://huami.ng/pale-blue-dot)_ reflection, our planet is just a “mote of dust suspended in a sunbeam.”
+As the legendary astronomer [Carl Sagan](https://www.google.com/search?q=Carl+Sagan) famously said in his 1994 _[Pale Blue Dot](https://huam.ing/pale-blue-dot)_ reflection, our planet is just a “mote of dust suspended in a sunbeam.”
 
 Step back far enough, and your toughest struggles stop feeling so big. What once felt overwhelming suddenly feels manageable.
 
