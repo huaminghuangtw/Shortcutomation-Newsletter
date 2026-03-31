@@ -59,7 +59,7 @@ However, manually visiting a website every day creates friction. The key is to a
 
 Here’s my setup:
 
-1. I configured a Personal Automation in the Shortcuts app to trigger [my custom “Daily Exercise” shortcut](https://shortcutomation.com/daily-exercise) daily at 1:00 PM—the specific time I [hit my post-lunch slump](https://huami.ng/2025/07/30/how-i-use-shortcuts-to-recharge-my-brain) and need to wake my body up.
+1. I configured a Personal Automation in the Shortcuts app to trigger [my custom “Daily Exercise” shortcut](https://shortcutomation.com/daily-exercise) daily at 1:00 PM—the specific time I [hit my post-lunch slump](https://huam.ing/2025/07/30/how-i-use-shortcuts-to-recharge-my-brain) and need to wake my body up.
 
 	![](_attachments/c534c6f9d8118cbfd9a6f7d3b05626c0.PNG)
 
