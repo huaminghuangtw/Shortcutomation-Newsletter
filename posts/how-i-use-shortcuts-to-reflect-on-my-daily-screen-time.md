@@ -2,7 +2,7 @@
 title: How I Use Shortcuts to Reflect on My Daily Screen Time
 description:
 created: 2025-06-05
-modified: 2026-03-21
+modified: 2026-04-06
 canonicalUrl: https://shortcutomation.com/2025/6/5/how-i-use-shortcuts-to-reflect-on-my-daily-screen-time
 canonicalPath: 2025/6/5/how-i-use-shortcuts-to-reflect-on-my-daily-screen-time
 draft: false
@@ -26,7 +26,7 @@ Each night—about an hour before bed—I use [iOS’s Personal Automation](http
 
 ![](_attachments/6e72b2697c7092a5ec3180bd5d050a41.PNG "Every night at 20:00, I received a notification to check my daily screen time on the Lock Screen.")
 
-When I tap it, it opens directly to the [**Screen Time Summary**](https://support.apple.com/guide/iphone/get-started-with-screen-time-iphbfa595995) ,[^2] where I can reflect on how I spent time with my phone that day:
+When I tap it, it opens directly to the [**Screen Time Summary**](https://support.apple.com/guide/iphone/get-started-with-screen-time-iphbfa595995) [^2], where I can reflect on how I spent time with my phone that day:
 
 * Which apps or websites I used most
 * How often I picked up my phone
