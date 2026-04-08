@@ -2,7 +2,7 @@
 title: How I Use Shortcuts to Recharge My Brain
 description:
 created: 2025-07-30
-modified: 2026-03-21
+modified: 2026-04-08
 canonicalUrl: https://shortcutomation.com/2025/7/30/how-i-use-shortcuts-to-recharge-my-brain
 canonicalPath: 2025/7/30/how-i-use-shortcuts-to-recharge-my-brain
 draft: false
@@ -36,7 +36,7 @@ I used to struggle with giving myself permission to take breaks. Whenever I did,
 
 Now, I learned the importance of prioritizing downtime and [sharpening the saw](https://sketchplanations.com/sharpen-the-saw). To perform at my best, I have to work with my biology, not against it—_I’m human, not a machine_. If I want to speed up later, I need to slow down first—**because slow is smooth, smooth is fast, and slow and steady wins the race.**
 
-So, stop treating rest as a reward—it’s not a special indulgence, but an absolute necessity. Downtime deserves time management as well. Replace the label “relaxing” or “relaxation” with “recovery,” so you don’t see it as wasted time. Think of relaxing as recovery, because it truly is. Remember: If rest increases your output per unit of time, it’s productive. Learn to rest, not to quit.
+So, stop treating rest as a reward—it’s not a special indulgence, but an absolute necessity. Downtime deserves time management as well. Replace the label “relaxing” or “relaxation” with “recovery,” so you don’t see it as wasted time. Think of relaxing as recovery, because it truly is. Remember: If rest increases your output per unit of time, it’s productive. If you’re tired, learn to rest, not to quit.
 
 I use the [“Brain Recharger”](https://shortcutomation.com/brain-recharger/) shortcut almost every day. With customizable steps—like adding a timer or your favorite mindfulness audio—it’s easy to create a reset routine that fits your needs.
 
