@@ -5,7 +5,6 @@ created: 2025-07-30
 modified: 2026-04-08
 canonicalUrl: https://shortcutomation.com/2025/7/30/how-i-use-shortcuts-to-recharge-my-brain
 canonicalPath: 2025/7/30/how-i-use-shortcuts-to-recharge-my-brain
-draft: false
 featured: false
 shortcutDownloadLinks:
   - https://shortcutomation.com/brain-recharger
