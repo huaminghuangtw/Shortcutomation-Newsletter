@@ -5,7 +5,6 @@ created: 2025-11-19
 modified: 2026-03-21
 canonicalUrl: https://shortcutomation.com/2025/11/19/this-shortcut-got-me-to-exercise-every-single-day
 canonicalPath: 2025/11/19/this-shortcut-got-me-to-exercise-every-single-day
-draft: false
 featured: false
 shortcutDownloadLinks:
   - https://shortcutomation.com/daily-exercise
