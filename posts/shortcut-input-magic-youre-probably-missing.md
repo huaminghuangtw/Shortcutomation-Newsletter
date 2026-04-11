@@ -5,7 +5,6 @@ created: 2025-07-29
 modified: 2026-03-14
 canonicalUrl: https://shortcutomation.com/2025/7/29/shortcut-input-magic-youre-probably-missing
 canonicalPath: 2025/7/29/shortcut-input-magic-youre-probably-missing
-draft: false
 featured: false
 tags:
   - Shortcutomation/dev-tip
