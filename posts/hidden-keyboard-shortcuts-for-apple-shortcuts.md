@@ -5,7 +5,6 @@ created: 2025-08-12
 modified: 2026-03-21
 canonicalUrl: https://shortcutomation.com/2025/8/12/hidden-keyboard-shortcuts-for-apple-shortcuts
 canonicalPath: 2025/8/12/hidden-keyboard-shortcuts-for-apple-shortcuts
-draft: false
 featured: false
 tags:
   - Shortcutomation/dev-tip
