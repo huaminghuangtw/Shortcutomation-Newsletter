@@ -21,7 +21,7 @@ One of the most effective ways to overcome this slump is by taking a nap.
 
 Personally, I love taking naps (or [“Siesta”](https://en.wikipedia.org/wiki/Siesta)). They replenish my body battery and help me refocus after [intense deep work sessions](https://huam.ing/deep-work-machine/) in the morning.
 
-The ideal nap time is when [adenosine](https://www.google.com/search?q=Adenosine) [^1] levels peak—usually in the _early afternoon (1—3 PM)_ or _7—8 hours after waking_.
+The ideal nap time is when [adenosine](https://www.google.com/search?q=Adenosine) [^1] levels peak—usually in the _early afternoon (1–3 PM)_ or _7–8 hours after waking_.
 
 You can enhance your nap with techniques like [“Nappuccino”](https://en.wikipedia.org/wiki/Power_nap#Stimulant_nap) or guided breathwork / body scan exercises.
 
