@@ -2,9 +2,9 @@
 title: How I Use Shortcuts to Recharge My Brain
 description:
 created: 2025-07-30
-modified: 2026-04-08
-canonicalUrl: https://shortcutomation.com/2025/7/30/how-i-use-shortcuts-to-recharge-my-brain
+modified: 2026-04-30
 canonicalPath: 2025/7/30/how-i-use-shortcuts-to-recharge-my-brain
+canonicalUrl: https://shortcutomation.com/2025/7/30/how-i-use-shortcuts-to-recharge-my-brain
 featured: false
 shortcutDownloadLinks:
   - https://shortcutomation.com/brain-recharger
