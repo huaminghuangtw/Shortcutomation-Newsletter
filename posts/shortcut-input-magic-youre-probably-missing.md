@@ -1,6 +1,5 @@
 ---
 title: Shortcut Input Magic You’re Probably Missing
-description:
 created: 2025-07-29
 modified: 2026-04-30
 canonicalPath: 2025/7/29/shortcut-input-magic-youre-probably-missing

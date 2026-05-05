@@ -1,6 +1,5 @@
 ---
 title: Hidden Keyboard Shortcuts for Apple Shortcuts
-description:
 created: 2025-08-12
 modified: 2026-04-30
 canonicalPath: 2025/8/12/hidden-keyboard-shortcuts-for-apple-shortcuts

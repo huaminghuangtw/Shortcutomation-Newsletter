@@ -1,6 +1,5 @@
 ---
 title: Live Each Day as if It Were Your Last
-description:
 created: 2025-07-15
 modified: 2026-04-30
 canonicalPath: 2025/7/15/live-each-day-as-if-it-were-your-last
