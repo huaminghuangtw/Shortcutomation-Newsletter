@@ -3,7 +3,6 @@ title: How I Use Shortcuts to Reflect on My Daily Screen Time
 created: 2025-06-05
 modified: 2026-04-30
 canonicalPath: 2025/6/5/how-i-use-shortcuts-to-reflect-on-my-daily-screen-time
-canonicalUrl: https://shortcutomation.com/2025/6/5/how-i-use-shortcuts-to-reflect-on-my-daily-screen-time
 featured: false
 shortcutDownloadLinks:
   - https://shortcutomation.com/check-daily-screen-time

@@ -3,7 +3,6 @@ title: Shortcut Input Magic You’re Probably Missing
 created: 2025-07-29
 modified: 2026-04-30
 canonicalPath: 2025/7/29/shortcut-input-magic-youre-probably-missing
-canonicalUrl: https://shortcutomation.com/2025/7/29/shortcut-input-magic-youre-probably-missing
 featured: false
 tags:
   - Shortcutomation/dev-tip

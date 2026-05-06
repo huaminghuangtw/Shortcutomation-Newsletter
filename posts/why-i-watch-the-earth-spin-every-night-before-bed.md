@@ -3,7 +3,6 @@ title: Why I Watch the Earth Spin Every Night Before Bed
 created: 2025-12-24
 modified: 2026-04-30
 canonicalPath: 2025/12/24/why-i-watch-the-earth-spin-every-night-before-bed
-canonicalUrl: https://shortcutomation.com/2025/12/24/why-i-watch-the-earth-spin-every-night-before-bed
 featured: false
 shortcutDownloadLinks:
   - https://shortcutomation.com/nasa-epic-gif

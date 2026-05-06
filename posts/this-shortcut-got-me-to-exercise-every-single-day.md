@@ -3,7 +3,6 @@ title: This Shortcut Got Me to Exercise Every Single Day
 created: 2025-11-19
 modified: 2026-04-30
 canonicalPath: 2025/11/19/this-shortcut-got-me-to-exercise-every-single-day
-canonicalUrl: https://shortcutomation.com/2025/11/19/this-shortcut-got-me-to-exercise-every-single-day
 featured: false
 shortcutDownloadLinks:
   - https://shortcutomation.com/daily-exercise
