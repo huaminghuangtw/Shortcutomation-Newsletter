@@ -2,9 +2,9 @@
 title: How I Use Shortcuts to Recharge My Brain
 created: 2025-07-30
 modified: 2026-05-10
+aliases:
+  - Brain Recharger
 featured: false
-shortcutDownloadLinks:
-  - https://shortcutomation.com/brain-recharger
 tags:
   - lifeos-toolkits
   - shortcut-sharing

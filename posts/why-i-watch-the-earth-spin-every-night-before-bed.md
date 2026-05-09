@@ -2,9 +2,8 @@
 title: Why I Watch the Earth Spin Every Night Before Bed
 created: 2025-12-24
 modified: 2026-05-10
-featured: false
-shortcutDownloadLinks:
-  - https://shortcutomation.com/nasa-epic-gif
+aliases:
+  - NASA EPIC GIF
 tags:
   - shortcut-sharing
 ---

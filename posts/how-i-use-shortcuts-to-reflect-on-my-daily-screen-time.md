@@ -2,10 +2,10 @@
 title: How I Use Shortcuts to Reflect on My Daily Screen Time
 created: 2025-06-05
 modified: 2026-05-10
+aliases:
+  - Check Daily Screen Time
+  - Go To Screen Time Summary
 featured: false
-shortcutDownloadLinks:
-  - https://shortcutomation.com/check-daily-screen-time
-  - https://shortcutomation.com/go-to-screen-time-summary
 tags:
   - iphone-settings
   - screen-time

@@ -2,9 +2,9 @@
 title: Live Each Day as if It Were Your Last
 created: 2025-07-15
 modified: 2026-05-10
+aliases:
+  - Death Clock
 featured: true
-shortcutDownloadLinks:
-  - https://shortcutomation.com/death-clock
 tags:
   - lifeos-toolkits
   - shortcut-sharing

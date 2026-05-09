@@ -2,9 +2,9 @@
 title: This Shortcut Got Me to Exercise Every Single Day
 created: 2025-11-19
 modified: 2026-05-10
+aliases:
+  - Daily Exercise
 featured: false
-shortcutDownloadLinks:
-  - https://shortcutomation.com/daily-exercise
 tags:
   - shortcut-sharing
 ---
