@@ -1,14 +1,13 @@
 ---
 title: How I Use Shortcuts to Recharge My Brain
 created: 2025-07-30
-modified: 2026-04-30
-canonicalPath: 2025/7/30/how-i-use-shortcuts-to-recharge-my-brain
+modified: 2026-05-10
 featured: false
 shortcutDownloadLinks:
   - https://shortcutomation.com/brain-recharger
 tags:
-  - Shortcutomation/lifeos-toolkits
-  - Shortcutomation/shortcut-sharing
+  - lifeos-toolkits
+  - shortcut-sharing
 ---
 
 > “Rest until you feel like playing, then play until you feel like resting.” — Martha Beck

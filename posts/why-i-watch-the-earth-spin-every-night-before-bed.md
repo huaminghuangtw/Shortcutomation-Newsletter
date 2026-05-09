@@ -1,13 +1,12 @@
 ---
 title: Why I Watch the Earth Spin Every Night Before Bed
 created: 2025-12-24
-modified: 2026-04-30
-canonicalPath: 2025/12/24/why-i-watch-the-earth-spin-every-night-before-bed
+modified: 2026-05-10
 featured: false
 shortcutDownloadLinks:
   - https://shortcutomation.com/nasa-epic-gif
 tags:
-  - Shortcutomation/shortcut-sharing
+  - shortcut-sharing
 ---
 
 For years, my internal monologue was a harsh taskmaster. I was suffering from the high pressure I put on myself, the weight of my own relentless expectations.

@@ -1,11 +1,10 @@
 ---
 title: Shortcut Input Magic You’re Probably Missing
 created: 2025-07-29
-modified: 2026-04-30
-canonicalPath: 2025/7/29/shortcut-input-magic-youre-probably-missing
+modified: 2026-05-10
 featured: false
 tags:
-  - Shortcutomation/dev-tip
+  - dev-tip
 ---
 
 By default, Shortcuts proceeds _if no input is provided_—but did you know you can change this behavior?

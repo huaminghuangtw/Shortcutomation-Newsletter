@@ -1,13 +1,12 @@
 ---
 title: This Shortcut Got Me to Exercise Every Single Day
 created: 2025-11-19
-modified: 2026-04-30
-canonicalPath: 2025/11/19/this-shortcut-got-me-to-exercise-every-single-day
+modified: 2026-05-10
 featured: false
 shortcutDownloadLinks:
   - https://shortcutomation.com/daily-exercise
 tags:
-  - Shortcutomation/shortcut-sharing
+  - shortcut-sharing
 ---
 
 > “My number one priority in life, above my happiness, above my family, above my work, is my own health. It starts with my physical health. Because my physical health became my number one priority, then I could never say I don’t have time. […] I do not start my day until I’ve worked out. I don’t care if the world is imploding and melting down, it can wait another 30 minutes until I’m done working out.” — Naval Ravikant
@@ -56,7 +55,7 @@ However, manually visiting a website every day creates friction. The key is to a
 
 Here’s my setup:
 
-1. I configured a Personal Automation in the Shortcuts app to trigger [my custom “Daily Exercise” shortcut](https://shortcutomation.com/daily-exercise) daily at 1:00 PM—the specific time I [hit my post-lunch slump](https://huam.ing/2025/07/30/how-i-use-shortcuts-to-recharge-my-brain) and need to wake my body up.
+1. I configured a Personal Automation in the Shortcuts app to trigger [my custom “Daily Exercise” shortcut](https://shortcutomation.com/daily-exercise) daily at 1:00 PM—the specific time I [hit my post-lunch slump](how-i-use-shortcuts-to-recharge-my-brain.md) and need to wake my body up.
 
 	![](_attachments/c534c6f9d8118cbfd9a6f7d3b05626c0.PNG)
 
