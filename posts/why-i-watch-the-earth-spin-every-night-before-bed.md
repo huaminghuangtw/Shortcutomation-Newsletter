@@ -4,6 +4,7 @@ created: 2025-12-24
 modified: 2026-05-10
 aliases:
   - NASA EPIC GIF
+featured: false
 tags:
   - shortcut-sharing
 ---
