@@ -6,10 +6,6 @@ aliases:
   - Check Daily Screen Time
   - Go To Screen Time Summary
 featured: false
-tags:
-  - iphone-settings
-  - screen-time
-  - shortcut-sharing
 ---
 
 > “The price of anything is the amount of life you exchange for it.” — Henry David Thoreau

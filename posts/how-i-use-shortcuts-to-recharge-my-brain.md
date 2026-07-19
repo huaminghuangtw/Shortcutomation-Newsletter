@@ -5,9 +5,6 @@ modified: 2026-05-10
 aliases:
   - Brain Recharger
 featured: false
-tags:
-  - lifeos-toolkits
-  - shortcut-sharing
 ---
 
 > “Rest until you feel like playing, then play until you feel like resting.” — Martha Beck

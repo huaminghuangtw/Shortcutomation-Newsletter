@@ -5,9 +5,6 @@ modified: 2026-05-10
 aliases:
   - Death Clock
 featured: true
-tags:
-  - lifeos-toolkits
-  - shortcut-sharing
 ---
 
 > “Every man has two lives, and the second starts when he realizes he has just one.” — Confucius
