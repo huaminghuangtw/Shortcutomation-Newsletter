@@ -2,7 +2,6 @@
 title: Hidden Keyboard Shortcuts for Apple Shortcuts
 created: 2025-08-12
 modified: 2026-05-10
-featured: false
 ---
 
 When I first started making shortcuts, [I spent hours staring at my iPhone screen](how-i-use-shortcuts-to-reflect-on-my-daily-screen-time.md).
