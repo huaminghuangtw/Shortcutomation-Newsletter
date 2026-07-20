@@ -5,7 +5,6 @@ modified: 2026-05-10
 aliases:
   - Check Daily Screen Time
   - Go To Screen Time Summary
-featured: false
 ---
 
 > “The price of anything is the amount of life you exchange for it.” — Henry David Thoreau
