@@ -4,7 +4,6 @@ created: 2025-12-24
 modified: 2026-05-10
 aliases:
   - NASA EPIC GIF
-featured: false
 ---
 
 For years, my internal monologue was a harsh taskmaster. I was suffering from the high pressure I put on myself, the weight of my own relentless expectations.
