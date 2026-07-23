@@ -4,6 +4,7 @@ created: 2025-11-19
 modified: 2026-05-10
 aliases:
   - Daily Exercise
+featured: false
 ---
 
 > “My number one priority in life, above my happiness, above my family, above my work, is my own health. It starts with my physical health. Because my physical health became my number one priority, then I could never say I don’t have time. […] I do not start my day until I’ve worked out. I don’t care if the world is imploding and melting down, it can wait another 30 minutes until I’m done working out.” — Naval Ravikant

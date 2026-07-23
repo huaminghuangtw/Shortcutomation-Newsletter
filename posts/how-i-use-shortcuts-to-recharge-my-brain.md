@@ -4,6 +4,7 @@ created: 2025-07-30
 modified: 2026-05-10
 aliases:
   - Brain Recharger
+featured: false
 ---
 
 > “Rest until you feel like playing, then play until you feel like resting.” — Martha Beck
