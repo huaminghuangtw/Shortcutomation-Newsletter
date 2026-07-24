@@ -1,7 +1,7 @@
 ---
 title: This Shortcut Got Me to Exercise Every Single Day
 created: 2025-11-19
-modified: 2026-05-10
+modified: 2026-07-24
 aliases:
   - Daily Exercise
 ---
