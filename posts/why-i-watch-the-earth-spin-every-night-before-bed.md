@@ -1,7 +1,7 @@
 ---
 title: Why I Watch the Earth Spin Every Night Before Bed
 created: 2025-12-24
-modified: 2026-05-10
+modified: 2026-07-25
 aliases:
   - NASA EPIC GIF
 ---
@@ -18,7 +18,7 @@ That’s when I realized: to heal, I didn’t need to speed up. I needed to do t
 
 # The Power of Zooming Out
 
-![](_attachments/08f1ff30f09a13e6604cb3ab89c1c974.png)
+![](https://media.huam.ing/image/08f1ff30f09a13e6604cb3ab89c1c974.webp)
 
 When we are anxious, we react impulsively to immediate stressors. We lose perspective.
 
@@ -58,7 +58,7 @@ I also added a message that appears with the notification:
 >
 > You are enough. Relax. Don’t push yourself too hard.
 
-![](_attachments/ae48546d3b51ca520d826e383578d87e.gif)
+![](https://media.huam.ing/image/ae48546d3b51ca520d826e383578d87e.webp)
 
 Thanks to [Personal Automation](https://support.apple.com/guide/shortcuts/intro-to-personal-automation-apd690170742/ios), each night before bed, the Shortcut presents me with the ultimate bird’s-eye view: The entire Earth, spinning silently in the dark.
 
@@ -94,6 +94,6 @@ If you think you have it tough, look at your life from 100,000 miles away.
 
 When in doubt, zoom out.
 
-![](_attachments/55d1de78da4c22a7ad69504a9f8ae553.png)
+![](https://media.huam.ing/image/55d1de78da4c22a7ad69504a9f8ae553.webp)
 
 [^1]: I borrowed this quote from one of my favorite Taiwanese creators, [Shosho Chang (張修修)](https://shosho.tw/).
