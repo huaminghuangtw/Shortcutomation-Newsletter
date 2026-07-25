@@ -15,7 +15,7 @@ After discovering the unofficial list of [Apple’s Settings URL schemes](https:
 
 Each night—about an hour before bed—I use [iOS’s Personal Automation](https://support.apple.com/guide/shortcuts/intro-to-personal-automation-apd690170742/ios) to trigger one of these shortcuts. It sends me a _scheduled, customized_ notification reminding me to review my screen time.[^1]
 
-![](_attachments/6e72b2697c7092a5ec3180bd5d050a41.PNG "Every night at 20:00, I received a notification to check my daily screen time on the Lock Screen.")
+![](https://media.huam.ing/image/6e72b2697c7092a5ec3180bd5d050a41.webp "Every night at 20:00, I received a notification to check my daily screen time on the Lock Screen.")
 
 When I tap it, it opens directly to the [**Screen Time Summary**](https://support.apple.com/guide/iphone/get-started-with-screen-time-iphbfa595995) [^2], where I can reflect on how I spent time with my phone that day:
 
@@ -23,9 +23,9 @@ When I tap it, it opens directly to the [**Screen Time Summary**](https://suppor
 * How often I picked up my phone
 * What times of day I was most active [^3]
 
-![](_attachments/e31f4582014b484ada425661df1286e7.PNG "A day of intense focus on building shortcuts left me feeling completely overwhelmed (but fulfilled 😊).")
+![](https://media.huam.ing/image/e31f4582014b484ada425661df1286e7.webp "A day of intense focus on building shortcuts left me feeling completely overwhelmed (but fulfilled 😊).")
 
-![](_attachments/af26e322fec959c393779754eb7f43b5.PNG "For the first time in my entire life, I kept my screen time under 1 hour! 🥳")
+![](https://media.huam.ing/image/af26e322fec959c393779754eb7f43b5.webp "For the first time in my entire life, I kept my screen time under 1 hour! 🥳")
 
 That moment of awareness—seeing the actual numbers—has helped me wind down with more intention and adjust my habits accordingly.
 
