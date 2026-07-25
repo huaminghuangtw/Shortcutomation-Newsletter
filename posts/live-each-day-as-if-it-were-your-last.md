@@ -24,7 +24,7 @@ This universal truth inspired me to build a **[Death Clock](https://shortcutomat
 
 Every morning, my Lock Screen greets me with these numbers, thanks to a [Personal Automation](https://support.apple.com/guide/shortcuts/intro-to-personal-automation-apd690170742/ios).
 
-![](_attachments/4b4ce1d10ae09059857f00b70a8315ff.jpg)
+![](https://media.huam.ing/image/4b4ce1d10ae09059857f00b70a8315ff.webp)
 
 I used to put off small joys in _this moment, [this pixel](https://waitbutwhy.com/2013/11/life-is-picture-but-you-live-in-pixel.html), this now_—[calling a loved one](https://shortcutomation.com/call-people-i-love/), taking a walk, savoring a meal—thinking there would always be more time later. But _later_ often means _never_. [It’s later than you think.](https://youtu.be/nFxjnUPRwx4)
 
