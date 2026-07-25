@@ -54,15 +54,15 @@ Here’s my setup:
 
 1. I configured a Personal Automation in the Shortcuts app to trigger [my custom “Daily Exercise” shortcut](https://shortcutomation.com/daily-exercise) daily at 1:00 PM—the specific time I [hit my post-lunch slump](how-i-use-shortcuts-to-recharge-my-brain.md) and need to wake my body up.
 
-	![](_attachments/c534c6f9d8118cbfd9a6f7d3b05626c0.PNG)
+	![](https://media.huam.ing/image/c534c6f9d8118cbfd9a6f7d3b05626c0.webp)
 
 2. Each day at 1:00 PM sharp, my phone buzzes. I don’t even have to unlock it. The notification appears right on my Lock Screen, telling me exactly what the “snack” is. [^2]
 
-	![](_attachments/21c1c47d98c5333045192ad0b1e458a9.png)
+	![](https://media.huam.ing/image/21c1c47d98c5333045192ad0b1e458a9.webp)
 
 3. Here is the most important part. I don’t need to open a browser or an app. **I simply long-press the notification.** Upon expansion, the notification presents a GIF of the exercise with the target rep count.
 
-	![](_attachments/2d28399fa18c3b51fd2258e7f7b3b44b.gif)
+	![](https://media.huam.ing/image/2d28399fa18c3b51fd2258e7f7b3b44b.webp)
 
 This setup works because it respects my laziness; on days I have zero energy, I can still do 20 squats.
 
