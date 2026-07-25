@@ -6,11 +6,11 @@ modified: 2026-05-10
 
 By default, Shortcuts proceeds _if no input is provided_—but did you know you can change this behavior?
 
-![](_attachments/a80dd0f5804198ab923b05d496b2fd31.png)
+![](https://media.huam.ing/image/a80dd0f5804198ab923b05d496b2fd31.webp)
 
 Tap the “Continue” bubble, you will see the following three options:
 
-![](_attachments/d031ca86ce01bc698608c6df274ab154.png)
+![](https://media.huam.ing/image/d031ca86ce01bc698608c6df274ab154.webp)
 
 1. **Stop and Respond**
 
@@ -19,7 +19,7 @@ Tap the “Continue” bubble, you will see the following three options:
 
 2. **Ask For**
 
-	![](_attachments/22bbd89ab9af292353b7d9eda9705d42.png)
+	![](https://media.huam.ing/image/22bbd89ab9af292353b7d9eda9705d42.webp)
 
 	* Prompts the user to enter or pick a value of the specific type.
 	* ⭐️ This is my favorite choice for shortcuts that require input. For example:
