@@ -1,7 +1,7 @@
 ---
 title: This Shortcut Got Me to Exercise Every Single Day
 created: 2025-11-19
-modified: 2026-07-24
+modified: 2026-08-04
 aliases:
   - Daily Exercise
 ---
@@ -62,7 +62,7 @@ Here’s my setup:
 
 3. Here is the most important part. I don’t need to open a browser or an app. **I simply long-press the notification.** Upon expansion, the notification presents a GIF of the exercise with the target rep count.
 
-	![](https://media.huam.ing/image/2d28399fa18c3b51fd2258e7f7b3b44b.webp)
+	![](https://media.huam.ing/image/2cc52a870ced550eccda9724444e1a6e.webp)
 
 This setup works because it respects my laziness; on days I have zero energy, I can still do 20 squats.
 
