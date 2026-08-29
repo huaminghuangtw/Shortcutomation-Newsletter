@@ -1,18 +1,19 @@
 ---
-title: Cleaner Shortcuts: Stop Writing “Otherwise”
+title: "Cleaner Shortcuts: Stop Writing “Otherwise”"
 created: 2026-08-23
-modified: 2026-08-23
-featured: false
+modified: 2026-08-29
+draft: true
 tags:
   - dev-tip
 ---
 
 //todo: another screenshot
+
 While building a shortcut to export my bookmarks (the content I want to enjoy later, books included), I kept tripping over the same ugly pattern. The shortcut was full of `If … Otherwise` blocks, and the `If` branches were often nothing more than a single “Get Value from X” action. All that structure for one little value. That’s when I started thinking about simplifying.
 
 ![The cover-fallback shortcut in the Shortcuts editor](https://media.huam.ing/image/cover-fallback.webp "Instead of handling the happy path in its own branch, I only write the fallback — the happy path flows through untouched.")
 
-## The realization: fewer branches, cleaner shortcuts
+# The realization: fewer branches, cleaner shortcuts
 
 Most of the time, an `If … Otherwise` in Shortcuts looks like this:
 
@@ -36,7 +37,7 @@ End If
 
 When `imageLinks.thumbnail` **does** have a value, the whole block is skipped and the value flows straight through to whatever comes next. You only write the fallback — the happy path needs no branch at all.
 
-## A real example: chained book-cover fallback
+# A real example: chained book-cover fallback
 
 When I export a book, I want its cover. Google Books usually has one, but not always. So my shortcut tries three sources, deepest fallback last:
 
@@ -61,16 +62,16 @@ Get contents of If Result
 
 Each level only handles the case where the previous one failed. Whatever survived gets passed along by `If Result`.
 
-## The principle behind the trick
+# The principle behind the trick
 
 Before I add an `If … Otherwise`, I now ask myself: **is one of these branches just holding the value that’s already there?** If so, flip it.
 
-- Normal case → value present → you never touch the fallback branch.
-- Edge case → value missing → only the fallback runs.
+* Normal case → value present → you never touch the fallback branch.
+* Edge case → value missing → only the fallback runs.
 
 This “guard clause” thinking keeps shortcuts short, easy to scan, and easy to maintain. The book-cover chain reads top-to-bottom as “this, or else this, or else this” — the intent is obvious at a glance.
 
-## How this compares to a normal programming language
+# How this compares to a normal programming language
 
 If you write code, this pattern should look familiar — it’s a **guard clause**, the same idea as an early `return`:
 
@@ -89,13 +90,13 @@ Or, more idiomatically, a single line using short-circuit evaluation:
 cover = thumbnail or preview_link or f"https://covers.openlibrary.org/b/id/{cover_i}-M.jpg"
 ```
 
-Normal languages have **expressions** — an `or` that stops at the first real value. Shortcuts has no such operator. The only way to pick between values is the `If` action, so the same logic *must* be written as blocks. The trick — flipping the condition so only the fallback is written — is how you bring that one-line elegance back.
+Normal languages have **expressions** — an `or` that stops at the first real value. Shortcuts has no such operator. The only way to pick between values is the `If` action, so the same logic _must_ be written as blocks. The trick — flipping the condition so only the fallback is written — is how you bring that one-line elegance back.
 
-What’s unique to Shortcuts is the **implicit data flow**. In code, every value needs a name and every branch needs an explicit `return`. In Shortcuts, values flow *through* actions, and when an `If` block is skipped, the incoming value just keeps going. There’s no `return` — the value is already on its way. That pass-through is the superpower: it’s why you can delete the happy-path branch entirely and the shortcut still works.
+What’s unique to Shortcuts is the **implicit data flow**. In code, every value needs a name and every branch needs an explicit `return`. In Shortcuts, values flow _through_ actions, and when an `If` block is skipped, the incoming value just keeps going. There’s no `return` — the value is already on its way. That pass-through is the superpower: it’s why you can delete the happy-path branch entirely and the shortcut still works.
 
 So the guard clause itself isn’t new. But in a normal language you reach for it because the `return` forces you to spell out the flow. In Shortcuts you reach for it because the value flows for you.
 
-## Two caveats
+# Two caveats
 
 1. **Missing value ≠ empty string.** `doesn’t have any value` is for values that are truly absent (a missing dictionary key, an empty API response). If a value is present but blank (`""`), use `is empty` instead.
 2. **Don’t over-nest.** Three fallback levels is about the limit before a shortcut gets hard to follow. If you’re going deeper, consider a Dictionary lookup or a `Repeat` instead.
