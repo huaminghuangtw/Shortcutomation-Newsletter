@@ -1,7 +1,7 @@
 ---
 title: Shortcut Input Magic You’re Probably Missing
 created: 2025-07-29
-modified: 2026-05-10
+modified: 2026-09-03
 ---
 
 By default, Shortcuts proceeds _if no input is provided_—but did you know you can change this behavior?
