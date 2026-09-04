@@ -1,7 +1,7 @@
 ---
 title: Live Each Day as if It Were Your Last
 created: 2025-07-15
-modified: 2026-05-10
+modified: 2026-09-03
 aliases:
   - Death Clock
 featured: true
