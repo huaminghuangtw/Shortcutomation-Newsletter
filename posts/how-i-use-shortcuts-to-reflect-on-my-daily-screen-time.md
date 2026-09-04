@@ -1,7 +1,7 @@
 ---
 title: How I Use Shortcuts to Reflect on My Daily Screen Time
 created: 2025-06-05
-modified: 2026-05-10
+modified: 2026-09-03
 aliases:
   - Check Daily Screen Time
   - Go To Screen Time Summary
